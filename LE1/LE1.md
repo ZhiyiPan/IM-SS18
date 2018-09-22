@@ -12,15 +12,15 @@
 
 ## Aufgabe/ Ziel：
 
-* „die in Bezug auf die Unternehmensziele **effiziente Versorgung** aller Mitarbeiter und anderer Stakeholder **mit relevanten Informationen** mit Hilfe der Gestaltung und des Einsatzes von IKT“ => 
-**(effiziente Versorgung mit relevanten Informationen)**
+* „die in Bezug auf die Unternehmensziele **effiziente Versorgung** ~~aller Mitarbeiter und anderer Stakeholder~~ **mit relevanten Informationen** mit Hilfe der Gestaltung und des Einsatzes von IKT“ => 
+**(effiziente Versorgung mit relevanten Informationen mit IKT)**
 
 * „generelles **Sachziel des Informationsmanagements** ist
 es, das **Leistungspotential der Informationsfunktion**
 für die Erreichung der strategischen Unternehmensziele
 durch die Schaffung und Aufrechterhaltung einer
 **geeigneten Informationsinfrastruktur** in Unternehmenserfolg umzusetzen“
-=> (Leistungspotential der Informationsfunktion durch geeigneten Informationsinfrastruktur)
+=> **(Leistungspotential der Informationsfunktion durch geeigneten Informationsinfrastruktur umzusetzen)**
 ---
 ## Information: Definitionen
 * Information vermindert Unsicherheit 
@@ -37,9 +37,9 @@ durch die Schaffung und Aufrechterhaltung einer
 
 **Daten** (Die Anreicherung mit zusätzlichem Kontext verleiht den Daten eine Bedeutung) -> 
 
-**Information** (mithilfe des Kontexts, dass mit 0,87 der Wert des Dollars in Euro gemeint ist)(Information mit anderen Informationen vernetzt)-> 
+**Information** _(mithilfe des Kontexts, dass mit 0,87 der Wert des Dollars in Euro gemeint ist)(Information mit anderen Informationen vernetzt)->_ 
 
-**Wissen** 
+_**Wissen**_
 
 * _Signale： physikalisch wahrnehmbare Tatbestände die Voraussetzung für die Übermittlung und Speicherung von Zeichen._ 
 * _Zwischen Nachricht und Daten
@@ -49,9 +49,9 @@ wird anhand der Verwendung so differenziert, dass die Zeichenübertragung zu Nac
 ![](le1c.png)
 
 ### Semiotik符号学:
-* Sigmatik (eine Abbildung eines bezeichneten Objekts)
-
  * Syntaktik: Regeln, nach denen diese Abbildung erfolgen kann 
+ 
+ * Sigmatik (eine Abbildung eines bezeichneten Objekts)
  
  * Semantik: dass Inhalt (also Daten) und seine Bedeutung separat und voneinander trennbar sind. 
  
@@ -71,7 +71,9 @@ Sie untersucht sowohl die **Beziehung zwischen dem Zeichen und seiner Bedeutung 
 ![](le1d.png)
 
 Erläuten Sie ein Beispiel, warum Info als Modell eines Subjects zu verstehen?
+
 Antwort: mit Graph und Bus als ein Beispiel
+
 ---
 ## Materielles Wirtschaftsgut und Information(Vergleich)
 
@@ -114,8 +116,8 @@ Entscheidungen getroffen, Bewertungen vorgenommen und Kontrollen ausgeübt werde
 und ihre Verwendung zur zielorientierten Steuerung von Menschen und
 Prozessen.
 
-**Management**: Zusammenfassung vom Setzen von Zielen und Visionen, Organisieren, Entscheiden,
-Kontrollieren, Menschen entwickeln und fördern
+**Management**: Zusammenfassung vom **Setzen von Zielen und Visionen, Organisieren, Entscheiden,
+Kontrollieren, Menschen entwickeln und fördern**
 
 ---
 ## Informationsmanagement - Definition
@@ -148,59 +150,65 @@ _Ausgangspunkt, Fokus: das Problem – konkret in vorliegendem
 Fall Problem- und Fragestellungen im Zusammenhang mit dem Einsatz und der Steuerung
 von IT._
 
-_Ziel ist es, mittels Untersuchung von Ursachen-Wirkungs-Beziehungen und den
+_**Ziel**: mittels Untersuchung von Ursachen-Wirkungs-Beziehungen und den
 daraus abgeleiteten Maßnahmen und Ansätzen diese Probleme zu lösen. Dabei können Probleme als Untersuchungsgegenstand anhand verschiedener Aspekte, z. B. thematisch
 in verschiedene Bereiche oder Felder eingeordnet werden._
 
 ### Enterprise Wide Information Management (EWIM)
 ![](le1f.png)
 ![](le1g.png)
+
 _zeigt, wie „Geschäfts-Bereich“ und „DV-Bereich auf zwei Ebenen miteinander verbunden sind, und dass diese Verbindungen in entgegengesetzte Richtungen laufen_
 
 _fünf Prozesse:_ 
-_Die Ableitung der Geschäftsplanung aus der strategischen Planung ①_ 
+
+_**Die Ableitung der Geschäftsplanung aus der strategischen Planung ①**_ 
 _liefert die generelle Basis für die weiteren Prozesse, ohne dass das IM direkt betroffen ist._
 
-_Der darauf aufbauende klassische Planungsprozess für das IM, die Anpassung der Informationssystemarchitektur an die Geschäftsziele ②, versucht,
-die Unterstützung durch IT zu optimieren, indem die IS an die Unternehmensorganisation
+_Der darauf aufbauende klassische Planungsprozess für das IM, **die Anpassung der Informationssystemarchitektur an die Geschäftsziele ②**, **versucht,
+die Unterstützung durch IT zu optimieren**, indem die IS an die Unternehmensorganisation
 und die Bereichszielsetzungen angepasst werden. 
 Damit entspricht der Anpassungsprozess dem klassischen Bild der DV als Dienstleister im Unternehmen (Earl 1989)._ 
 
 _Probleme können allerdings entstehen, wenn (a) der Bedarf an IT-Unterstützung sich schneller ändert als die Umsetzung dauert, (b) der Bedarf erst während der Nutzung entsteht, (c) der Bedarf während der Nutzung wegfällt, oder (d) der Bedarf sich nicht klar auf Jahre im Voraus bestimmen lässt. Tatsächlich sind jedoch diese vier Bedingungen gerade bei größeren Projekten oft gleichzeitig gegeben._
-_Deswegen wird der nächste Prozess der Einflussnahme der Informationstechnologie auf die Unternehmensstrategie ③ relevant, obwohl dieser Einfluss oft unterschätzt wurde und wird._
+_Deswegen wird der nächste Prozess der **Einflussnahme der Informationstechnologie auf die Unternehmensstrategie ③** relevant, obwohl dieser Einfluss oft unterschätzt wurde und wird._
 
 _Strategische Planung wandelt sich im Zuge der Veränderungen in der Umwelt und berücksichtigt diese Veränderungen. Diese Veränderungen werden auch und gerade durch IT geprägt, wie bspw. durch neue Distributionsformen, verbesserte Geschäftsabwicklung oder flexiblere Produktionstechniken. Dabei nimmt nicht die Technik an sich, sondern die Nutzung der Technik Einfluss auf die Strategie. Nutzungspotenziale
 durch IT sind z. B. bei elektronischen Märkten und der Integration von Prozessen entlang
 der Wertschöpfungskette gegeben. Dieser Beeinflussungsprozess erfordert das Einbringen von Nutzungswissen in den strategischen Planungsprozess und setzt damit Kommunikationsfähigkeit auf beiden Seiten voraus_
 
-_Beeinflussen der Strategie heißt jedoch nicht nur Möglichkeiten eröffnen, da im Sinne einer Begrenzung der Technikoptionen ④ die Nutzung der IT auch ihre technischen
+_Beeinflussen der Strategie heißt jedoch nicht nur Möglichkeiten eröffnen, da im Sinne einer **Begrenzung der Technikoptionen ④** die Nutzung der IT auch ihre technischen
 Grenzen erfährt. Das in Unternehmen theoretisch vorhandene Nutzungspotenzial kann auf Grund der existierenden IS-Architektur, der Qualifikation der Mitarbeiter und nicht zuletzt wegen des knappen unternehmensspezifischen Wissens der Techniknutzung nicht ausgeschöpft werden._
 
-_Ist erst einmal die Rolle der existierenden IS-Architektur als Begrenzung für die Unternehmensstrategie erkannt, erscheint es sinnvoll, deren Entwicklung im Prozess Strategische Ableitung der Informationssystemarchitektur ⑤ in direkter Verbindung mit der
+_Ist erst einmal die Rolle der existierenden IS-Architektur als Begrenzung für die Unternehmensstrategie erkannt, erscheint es sinnvoll, deren Entwicklung im Prozess **Strategische Ableitung der Informationssystemarchitektur ⑤** in direkter Verbindung mit der
 Geschäftsstrategie zu gestalten und somit den „Umweg“ über die Entwicklung operativer
 Geschäftspläne zu verkürzen. Da dennoch konkrete Anwendungen und Geschäftsprozesse betroffen sind, erfordert auch dieser Prozess eine detaillierte Abstimmung der beteiligten Abteilungen._
 
-_Die Bedeutung des Enterprise Wide Information Management-Ansatzes (EWIM) besteht darin, zu verdeutlichen, dass Nutzer und Bereitsteller von IT untrennbar miteinander verbunden sind: Technische Optionen beeinflussen die strategischen Pläne, während die Geschäftsorganisation eine Anpassung der IS-Architektur an ihre Ziele verlangt. Wenn für
+_**Die Bedeutung** des Enterprise Wide Information Management-Ansatzes (EWIM): zu verdeutlichen, dass **Nutzer und Bereitsteller von IT untrennbar miteinander verbunden sind:** Technische Optionen beeinflussen die strategischen Pläne, während die Geschäftsorganisation eine Anpassung der IS-Architektur an ihre Ziele verlangt. Wenn für
 die Unternehmensstrategie Entscheidungen über die Ausnutzung der durch Technologie gelieferten Handlungsspielräume zu treffen sind, dann sind Beurteilungsmaßstäbe für diese Spielräume notwendig, wodurch der EWIM-Ansatz die Know-how-Anforderungen auf
-beiden Seiten herausstellt. Des Weiteren wird bereits 1985 verdeutlicht, dass das IM sowohl Impulse aus der geschäftlichen Welt erhält (Alignment) als auch an sie gibt (Impact), wodurch der IT die Rolle eines Enablers zukommt_
+beiden Seiten herausstellt._ 
+
+_Des Weiteren wird bereits 1985 verdeutlicht, dass das IM sowohl Impulse aus der geschäftlichen Welt erhält (Alignment) als auch an sie gibt (Impact), wodurch der IT die Rolle eines Enablers zukommt_
+
 ![](le1h.png)
 
 ---
 
 ## Aufgabenorientierte Ansätze
 ![](le1i.png)
+
 _Fokus: Aufzeigen von Wegen zu deren Erreichung in der Strukturierung der Aufgaben. Die an dieser Stelle relevanten Aufgaben – und der übergeordneten Ziele – sind, die die im Rahmen von IT-Einsatz und -Steuerung anfallen._
 
-„generelles Sachziel des Informationsmanagements ist es, das Leistungspotential der Informationsfunktion für die Erreichung der strategischen Unternehmensziele durch die Schaffung und Aufrechterhaltung einer geeigneten Informationsinfrastruktur in Unternehmenserfolg umzusetzen“
+„generelles Sachziel des Informationsmanagements ist es, das **Leistungspotential der Informationsfunktion** für die Erreichung der strategischen Unternehmensziele durch die Schaffung und Aufrechterhaltung einer **geeigneten Informationsinfrastruktur in Unternehmenserfolg umzusetzen**“
 
 **siehe bei 1**
 
-_strategischen Aufgaben: dienen der langfristigen Ausrichtung der IT an den Unternehmenszielen._
+_**strategischen Aufgaben**: dienen der **langfristigen Ausrichtung der IT** an den Unternehmenszielen._
 
-_administrativen Aufgaben des IM: setzen die strategische Planung um
-und sind die Führungsaufgaben der Realisierung und Aufrechterhaltung der Infrastruktur, insbesondere der gesamten Systemplanung und Systementwicklung._ 
+_**administrativen Aufgaben** des IM: **setzen die strategische Planung um**
+und sind die **Führungsaufgaben der Realisierung und Aufrechterhaltung der Infrastruktur**, insbesondere der gesamten Systemplanung und Systementwicklung._ 
 
-_operativen Aufgaben des IM: die Führungsaufgaben des Betriebes und der Nutzung einer vorhandenen IKT-Infrastruktur._
+_**operativen Aufgaben** des IM: die **Führungsaufgaben des Betriebes** und der Nutzung einer vorhandenen IKT-Infrastruktur._
 
 ----
 ## Prozessorientierte Ansätze des Informationsmanagements
