@@ -78,34 +78,32 @@ Antwort: mit Graph und Bus als ein Beispiel
 ## Materielles Wirtschaftsgut und Information(Vergleich)
 
 
-| Materielles Wirtschaftsgut                             | Information                                                                                           |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| Hohe Vervielfältigungskosten (复制)                    | Niedrige Vervielfältigungskosten                                                                      |
-| Angleichung der Grenzkosten an die Durchschnittskosten | Grenzkosten der (Re-)Produktion nahe Null                                                             |
-| Wertverlust durch Gebrauch                             | Kein Wertverlust durch Gebrauch                                                                       |
-| Individueller Besitz                                   | Vielfacher Besitz möglich                                                                             |
-| Wertverlust durch Teilung, begrenzte Teilbarkeit       | Kein Wertverlust durch Teilung, fast beliebige Teilbarkeit                                            |
-| Identifikations- und Schutzmöglichkeit                 | Probleme des Datenschutzes und der Datensicherheit                                                    |
-| Logistik oft aufwändig                                 | Logistik einfach                                                                                      |
-| Preis/Wert im Markt ermittelbar                        | Preis/Wert nur schwer bestimmbar                                                                      |
-| Begrenzte Kombinationsmöglichkeiten                    | Ansammlung schafft bereits neue Qualitäten, weitgehende Möglichkeiten der Erweiterung und Verdichtung |
+| Materielles Wirtschaftsgut                                 | Information                                                                                           |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Hohe **Vervielfältigungskosten** (复制)                    | Niedrige Vervielfältigungskosten                                                                      |
+| ~~Angleichung der Grenzkosten an die Durchschnittskosten~~ | Grenzkosten der (Re-)Produktion nahe Null                                                             |
+| **Wertverlust** durch Gebrauch                             | Kein Wertverlust durch Gebrauch                                                                       |
+| Individueller **Besitz**                                   | Vielfacher **Besitz** möglich                                                                         |
+| Wertverlust durch Teilung, begrenzte Teilbarkeit           | Kein Wertverlust durch Teilung, fast beliebige Teilbarkeit                                            |
+| ~~Identifikations- und Schutzmöglichkeit~~                 | Probleme des Datenschutzes und der Datensicherheit                                                    |
+| **Logistik** oft aufwändig                                 | Logistik einfach                                                                                      |
+| **Preis/Wert im Markt ermittelbar**                        | Preis/Wert nur schwer bestimmbar                                                                      |
+| ~~Begrenzte Kombinationsmöglichkeiten~~                    | Ansammlung schafft bereits neue Qualitäten, weitgehende Möglichkeiten der Erweiterung und Verdichtung |
 
 
-_Wirtschaftsguts: als technisches Mittel, sind neben der Verwendung für Zwecke des Wirtschaftssubjekts selbst, das Vorhandensein und die Verfügbarkeit im Wirkungsbereich eines Wirtschaftssubjekts sowie die Übertragbarkeit von einem Wirkungsbereich in einen anderen maßgebend._
+~~_Wirtschaftsguts: als technisches Mittel, sind neben der Verwendung für Zwecke des Wirtschaftssubjekts selbst, das Vorhandensein und die Verfügbarkeit im Wirkungsbereich eines Wirtschaftssubjekts sowie die Übertragbarkeit von einem Wirkungsbereich in einen anderen maßgebend._~~
 
-* _Informationen sind immaterielle Güter, die auch bei mehrfacher Nutzung nicht verbraucht werden._
+* _Informationen sind **immaterielle** Güter, die auch bei **mehrfacher Nutzung** nicht verbraucht werden._
 * _Informationen stiften dem Informationsverwender Nutzen, bspw. wenn sie in Handeln umgesetzt werden._
 * _Informationen sind keine freien Güter, sie können daher einen kostenadäquaten Wert haben._
 * _Der Wert der Information hängt von der kontextspezifischen und von der zeitlichen Verwendung ab._
 * _Der Wert der Information kann durch das Hinzufügen, Selektieren, Konkretisieren und Weglassen verändert werden. Information ist erweiterbar und verdichtbar._
 * _Es gibt unterschiedliche Qualitäten von Informationen, wie z. B. inhaltliche sowie zeitliche Genauigkeit, Vollständigkeit und Zuverlässigkeit._
-* _Informationen können mit Lichtgeschwindigkeit transportiert werden, auch wenn die Objekte, auf die sich die Information bezieht nicht mit der gleichen Geschwindigkeit transportiert werden können_.
+* _Informationen können **mit Lichtgeschwindigkeit transportiert** werden, auch wenn die Objekte, auf die sich die Information bezieht nicht mit der gleichen Geschwindigkeit transportiert werden können_.
 * _Informationen sind leicht kopierbar, so dass sich die Durchsetzung exklusiver Rechte insbesondere Eigentumsrechte als schwierig erweist._
 * _Informationen werden kodiert übertragen, daher sind für ihren Austausch gemeinsame Standards notwendig_
 
- Information ist einerseits ein abstraktes Modell und andererseits bei Übertragung und Speicherung immer
-an physikalische Signale gebunden. Diese Dualität bedeutet, dass Informationen Modelle
-einer physischen Realität darstellen und gleichzeitig selbst physische Realität sind.
+~~_Information ist einerseits ein abstraktes Modell und andererseits bei Übertragung und Speicherung immer an physikalische Signale gebunden. Diese Dualität bedeutet, dass Informationen Modelle einer physischen Realität darstellen und gleichzeitig selbst physische Realität sind._~~
 
 ---
 ## Management - Definitionen
@@ -116,8 +114,7 @@ Entscheidungen getroffen, Bewertungen vorgenommen und Kontrollen ausgeübt werde
 und ihre Verwendung zur zielorientierten Steuerung von Menschen und
 Prozessen.
 
-**Management**: Zusammenfassung vom **Setzen von Zielen und Visionen, Organisieren, Entscheiden,
-Kontrollieren, Menschen entwickeln und fördern**
+### **Management**: Zusammenfassung vom **Setzen von Zielen und Visionen, Organisieren, Entscheiden, Kontrollieren, Menschen entwickeln und fördern**
 
 ---
 ## Informationsmanagement - Definition
@@ -127,8 +124,8 @@ der (IS) InformationsSYsteme, der IKT und der Führungsaufgaben**.
 
 **Das Ziel des Informationsmanagements**： im Hinblick auf die
 **Unternehmensziele** den **bestmöglichen Einsatz der Ressource Information**
-zu gewährleisten. IM ist sowohl Management- wie Technikdisziplin und gehört
-zur den elementaren Bestandteilen der Unternehmensführung.
+zu gewährleisten. ~~IM ist sowohl Management- wie Technikdisziplin und gehört
+zur den elementaren Bestandteilen der Unternehmensführung.~~
 
 ---
 ## Informationssysteme: Definition
@@ -138,7 +135,7 @@ IS: **soziotechnische
 („Mensch-Maschine“-) Systeme**, die menschliche und maschinelle
 Komponenten (Teilsysteme) umfassen und **zum Ziel der optimalen
 Bereitstellung von Information und Kommunikation nach wirtschaftlichen
-Kriterien eingesetzt werden.**
+Kriterien** eingesetzt werden.
 
 ![](le1e.png)
 
