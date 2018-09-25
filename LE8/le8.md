@@ -66,6 +66,33 @@ _Ein **Beispiel** soll diese Ebenen erläutern: Es soll ein Enterprise Ressource
 Als technische Infrastruktur werden neben **passender Hardware und Verkabelung auch spezielle Kommunikationsprotokolle, ein Betriebssystem** etc. benötigt. Alle diese Komponenten müssen **aufeinander und auf das ERP-System abgestimmt** werden, bevor die
 Anwendung funktioniert. Die technische Grundlage eines klassischen SAP-ERP-Systems, und damit alle, speziell für dieses Produkt benötigten, Basistechniken werden als ABAPStack bezeichnet. Die Kombinationen von Basistechnik zu Technikbündeln können nahezu beliebig komplex werden. Auf diese Weise können neue komplexere Funktionalitäten bereitgestellt werden, die über diejenigen der Basistechnik weit hinausreichen._
 
+
+---
+## 3. Management der Technikbündel von LE9
+
+![](../LE9/11.png)
+![](../LE9/12.png)
+
+Ein typisches Beispiel für Technikbündel sind Client-Server-Architekturen (CSA). Sie
+entstehen durch Bündelung von Basistechniken und liefern spezielle Formen der drei
+Basisfunktionalitäten. (siehe Abb. 7.24). Im Basisfunktionalitätsbereich Kommunikation
+bestehen CSA aus der Basistechnik Datennetze sowie Koordinationsverfahren, insbesondere Remote Procedure Calls (RPC) und Message Passing Systems (MPS). Im Basisfunktionalitätsbereich der Verarbeitung wird Rechenkapazität an den Netzknoten der CSA
+benötigt. Weiterhin sind für CSA grafische Benutzeroberflächen als Präsentationstechniken charakteristisch. Im Basisfunktionalitätsbereich der Speicherung werden verteilte
+Datenbankkonzepte als Basistechnik verwendet. Obwohl verschiedene Formen der Basistechnik schon vorher bestanden, macht erst die sinnvolle Kombination das Potenzial des
+Technikbündels CSA aus.
+Durch die zunehmende Verbreitung von IT-Anlagen und deren Vernetzung hat sich diese hybride Form zwischen der zentralen sowie der verteilten und lokalen IT entwickelt.
+Bei Client-Server-Systemen übernehmen unter den über ein LAN oder WAN vernetzten
+Rechnern einige Rechner, die so genannten Server, bestimmte Dienstleistungen für andere Rechner, die Clients, die diese Dienstleistungen nutzen. Die Dienstleistung kann in
+der Datenhaltung, auf der Ebene der Anwendung oder auch nur in der Präsentation der
+Daten bestehen (). Die Dienstleistung kann in Form von Datenhaltung oder auf Ebene der
+Anwendung erbracht werden. Wie Abb. 7.24 zeigt, bestehen Applikationen auf Basis von
+CSA aus den Komponenten Darstellung, Anwendung und Datenhaltung.
+
+![](../LE9/13.png)
+![](../LE9/14.png)
+![](../LE9/15.png)
+
+![](../LE9/10.png)
 ---
 ## Definition: Ziele und Aufgaben des Managements von IKT
 
