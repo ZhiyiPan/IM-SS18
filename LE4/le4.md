@@ -46,20 +46,20 @@ _Danach wird **ein Original mittels einer Abbildungsrelation auf ein Modell abge
 Hinblick auf **Zielgruppe, Zweck und Zeit**. Präterierte (also ausgelassene bzw. übergangene) Attribute des Originals sind solche, die vom Modell nicht abgebildet werden. Auf
 der anderen Seite existieren auch **abundante (von lat. abundare: „reichlich vorhanden sein“)** Attribute des Modells._
 
-_Der Modellbegriff beinhaltet daher im Wesentlichen vier Elemente: die Abbildungsregeln, das Modellsubjekt, die abzubildende Realität und den Adressaten der Modellbetrachtung. Abbildungsregeln schreiben vor, wie die Realität abzubilden ist, um Objektivität und Intersubjektivität zu gewährleisten. Das Modellsubjekt ist der Erzeuger eines Modells. Die Realität stellt das Original oder die Vorlage für das zu erstellende Modell dar und der Adressat sollte mit Kenntnis der Abbildungsregeln in der Lage sein, das Modell zu verstehen und richtig zu interpretieren._
+_Der Modellbegriff beinhaltet daher im Wesentlichen **vier Elemente: die Abbildungsregeln, das Modellsubjekt, die abzubildende Realität und den Adressaten der Modellbetrachtung**. Abbildungsregeln schreiben vor, wie die Realität abzubilden ist, um Objektivität und Intersubjektivität zu gewährleisten. Das Modellsubjekt ist der Erzeuger eines Modells. Die Realität stellt das Original oder die Vorlage für das zu erstellende Modell dar und der Adressat sollte mit Kenntnis der Abbildungsregeln in der Lage sein, das Modell zu verstehen und richtig zu interpretieren._
 
 ## Systemischer Modellbegriff
 ![](6.png)
 
-_Bei der Erstellung eines Modells sind in der Regel sowohl Modellersteller wie auch die späteren Modellnutzer beteiligt. Beide Parteien haben bei der Erstellung des Modells eine eigene Sichtweise auf die Problematik beziehungsweise eine sich unterscheidende Sichtweise auf die für ein Modell relevanten Informationen aus dem Original bzw. der Wirklichkeit. Zudem bereichern beide Parteien für sich das Modell durch abundante Informationen. Der Modellersteller etwa durch sein Fachwissen und der Modellnutzer durch seine Erfahrungen. Sowohl Modellersteller wie auch Modellnutzer gelangen auf diese Weise zu einer eigenen Vorstellung des fertigen Modells. Um zu einem korrekten Ergebnis zu gelangen, gilt es nun für den Modellersteller unter Einbezug des Modellnutzers das fertige Modell zu konstruieren und gegebenenfalls Anpassungen an der eigenen Sichtweise auf die Problematik vorzunehmen. Er bezieht dabei die abundanten Informationen des Modellnutzers mit ein und ergänzt seine eigenen, falls sich deren Relevanz bestätigt. Das Ergebnis dieses Prozesses ist schließlich das fertige Modell, welches sich auf die Schnittmenge der Ansichten beider Beteiligten Gruppen bezieht._
+_Bei der **Erstellung eines Modells** sind in der Regel sowohl **Modellersteller** wie auch die späteren **Modellnutzer beteiligt**. Beide Parteien haben bei der Erstellung des Modells eine eigene Sichtweise auf die Problematik beziehungsweise eine sich **unterscheidende Sichtweise auf die für ein Modell relevanten Informationen** aus dem Original bzw. der Wirklichkeit. Zudem bereichern beide Parteien für sich das Modell **durch abundante Informationen**. Der Modellersteller etwa durch sein Fachwissen und der Modellnutzer durch seine Erfahrungen. Sowohl Modellersteller wie auch Modellnutzer gelangen auf diese Weise zu einer **eigenen Vorstellung** des fertigen Modells. Um zu einem korrekten Ergebnis zu gelangen, gilt es nun für den Modellersteller unter Einbezug des Modellnutzers **das fertige Modell zu konstruieren** und gegebenenfalls **Anpassungen** an der eigenen Sichtweise auf die Problematik **vorzunehmen**. Er bezieht dabei die abundanten Informationen des Modellnutzers mit ein und ergänzt seine eigenen, falls sich deren Relevanz bestätigt. Das Ergebnis dieses Prozesses ist schließlich das **fertige Modell**, welches sich auf die **Schnittmenge** der Ansichten beider Beteiligten Gruppen bezieht._
 
 ![](7.png)
 
 ---
 ## 3. Referenzmodelle
 
-**Referenzmodell** = für eine Branche oder einen ganzen Wirtschaftszweig
-erstelltes Modell, das **allgemeingültigen Charakter** haben soll. Es dient als** Ausgangslösung zur Entwicklung unternehmens-spezifischer
+**Referenzmodell** = für eine **Branche** oder einen ganzen Wirtschaftszweig
+erstelltes Modell, das **allgemeingültigen Charakter** haben soll. Es dient als **Ausgangslösung zur Entwicklung unternehmens-spezifischer
 Modelle**
 
 ### Einsatz von Referenzmodellen:
@@ -71,14 +71,14 @@ zwischen offenen Rechnernetzwerken
 Beschreibung von Konzepten, Bestandteilen und Struktur von
 Workflow-Management-Systemen
 
-_Die **Eigenschaft** der Allgemeingültigkeit fordert, dass Referenzmodelle für eine Klasse sogenannter unternehmensspezifischer Modelle zum Einsatz kommen sollen. Ihre Entwicklung erfolgt dementsprechend nicht basierend auf den Anforderungen eines speziellen
+_Die **Eigenschaft** der **Allgemeingültigkeit** fordert, dass Referenzmodelle für **eine Klasse** sogenannter **unternehmensspezifischer** Modelle zum Einsatz kommen sollen. Ihre Entwicklung erfolgt dementsprechend nicht basierend auf den Anforderungen eines speziellen
 Falls (Gültigkeitsbereich), **sondern es werden in mehreren Anforderungen wiederkehrende bzw. ähnliche Fälle zusammengefasst und verallgemeinert.**_
 
 _Eine besondere Rolle für das IM spielt die zunehmende Bereitstellung von Referenzmodellen durch **Software-Hersteller**. Sie sind vor dem Hintergrund des **Einsatzes einer bestimmten Software zu sehen. Solche Referenzmodelle erfüllen eine Dokumentationsfunktion für den Interessenten oder Kunden.** ~~Vor dem Kauf kann er prüfen, ob die betrachtete Software seine
 Anforderungen hinsichtlich der Funktionalität und der Abläufe erfüllt. Nach dem Kauf
 dient das Referenzmodell zur Schulung der Mitarbeiter und der Dokumentation der betrieblichen Abläufe, die durch die Software unterstützt wird~~_ 
 
-_**ISO/OSI-Referenzmodell**, das die Kommunikation zwischen offenen Rechnernetzwerken beschreibt. Dies wird später im Rahmen der Diskussion der Kommunikationsnormen näher erläutert._
+_**ISO/OSI-Referenzmodell**, das die Kommunikation zwischen offenen Rechnernetzwerken beschreibt._
 
 _Ein weiteres Referenzmodell definierte die **Workflow Management Coalition**. Hierin wird die Terminologie der Workflow Management Coalition festgelegt sowie Konzepte, Bestandteile und Struktur von
 Workflowmanagement-Systemen beschrieben._
@@ -91,35 +91,33 @@ Workflowmanagement-Systemen beschrieben._
 
 | Vorteile                                                                           | Nachteile                                                     |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Modellerstellung wird beschleunigt                                                 | Verlust strategischer Wettbewerbsvorteile und Kernkompetenzen |
-| Modellierung von Prozessen ist nicht einfach                                       | Problem der Geheimhaltung                                     |
-| Nur wenige Betriebe können sich einen von Grund auf eigenständigen Ansatz leisten. | -                                                             |
-| Geringeres Risiko ein nicht geeignetes Softwareprodukt zu finden                   | -                                                             |
-| Schnittstellen zwischen Anwendungssystemen können identifiziert werden.            | -                                                             |
-| Hilft bei der Automatisierung von Prozessbestandteilen                             | -                                                             |
-| Modellqualität                                                                     | -                                                             |
-| bessere Verständigung                                                              | -                                                             |
-| Kostenminimierung                                                                  | -                                                             |
+| Modellerstellung wird (**schneller**) beschleunigt                                                 | **Verlust** strategischer Wettbewerbsvorteile und **Kernkompetenzen** |
+| Modellierung von Prozessen ist nicht **einfach**                                       | Problem der **Geheimhaltung**                                     |
+| Nur **wenige Betriebe** können sich einen von Grund auf eigenständigen Ansatz leisten. | -                                                             |
+| **Geringeres Risiko** ein nicht geeignetes Softwareprodukt zu finden                   | -                                                             |
+| **Schnittstellen** zwischen Anwendungssystemen können identifiziert werden.            | -                                                             |
+| Hilft bei der **Automatisierung** von Prozessbestandteilen                             | -                                                             |
+| **Modellqualität**                                                                     | -                                                             |
+| bessere **Verständigung**                                                              | -                                                             |
+| **Kostenminimierung**                                                                  | -                                                             |
 
 _Vorteil_
 
-_**Kostenminimierung** entsteht durch die Nutzung von Vorlagen zur Modellerstellung. So erleichtern Referenzmodelle die Strukturierung von Projekten, sie vereinfachen die Identifikation und Diskussion von Prozessen, beschleunigen den Modellerstellungsprozesses und führen zu einer schnelleren Aneignung von Modellierungsmethoden. Durch den nutzenbringenden Einsatz der in den Referenzmodellen enthaltenen betriebswirtschaftlichen Lösungen ergeben sich zusätzlich auch Erlöswirkungen._
+_**Kostenminimierung** entsteht durch die Nutzung von **Vorlagen** zur Modellerstellung. So **erleichtern** Referenzmodelle die Strukturierung von Projekten, sie **vereinfachen** die Identifikation und Diskussion von Prozessen, **beschleunigen** den Modellerstellungsprozesses und führen zu einer **schnelleren** Aneignung von Modellierungsmethoden. Durch den nutzenbringenden Einsatz der in den Referenzmodellen enthaltenen betriebswirtschaftlichen Lösungen ergeben sich zusätzlich auch Erlöswirkungen._
 
 _**Risikominimierung**. Diese
-wird generiert durch das einfachere Erkennen bestehender Schwachstellen in bisherigen Abläufen, eine Qualitätserhöhung der erstellten unternehmensspezifischen Modelle, eine
+wird generiert durch das einfachere Erkennen bestehender Schwachstellen in bisherigen Abläufen, eine **Qualitätserhöhung** der erstellten unternehmensspezifischen Modelle, eine
 Mehrfachvalidierung der Modelle zur Vermeidung einer fehlerhaften Entwicklung sowie das in Referenzmodellen enthaltene Know-how (z. B. branchenabhängiges Wissen)_
 
 _Nachteil_
 
-_**Verlust strategischer Wettbewerbsvorteile und Kernkompetenzen**, wenn die Anpassung der Referenzmodelle oder Erstellung individueller Modelle unterbleibt, die strategische Wettbewerbsvorteile beinhalten. Bei der
+_**Verlust strategischer Wettbewerbsvorteile und Kernkompetenzen**, **wenn die Anpassung** der Referenzmodelle oder Erstellung **individueller Modelle** unterbleibt, die strategische Wettbewerbsvorteile beinhalten. Bei der
 Modellierung von Prozessen ist es nicht einfach den optimalen Abstraktionsgrad zu bestimmen. Die Modellanpassung wird noch als schlecht gelöstes Problem empfunden,
-welches oftmals Kontakt zu Fachspezialisten notwendig macht. Detaillierte Modelle müssen zwar kaum angepasst werden, sie passen aber auch nicht zu den Anforderungen vieler
-Unternehmen, so dass sie keine Verbreitung finden. Sind die Modelle hingegen zu allgemein gehalten, dann müssen sie zu stark und damit kostenaufwändig angepasst werden,
-so dass ihr Einsatz ebenso in Frage gestellt wird. Daher ist eine kontinuierliche Weiterentwicklung erforderlich. Weiterhin können sich nur wenige Betriebe einen von Grund auf
-eigenständigen Ansatz leisten, da die Entwicklung dieser Modelle in der Regel aufwändig und damit kostenintensiv ist. Auch die Geheimhaltung von Unternehmensinformationen,
-welche als Grundlage für Geschäftstätigkeit und Erfolg angesehen wird, erschwert die
-Veröffentlichung des in den Referenzmodellen befindlichen Wissens. Letztlich bleibt bei der Nutzung immer ein Risiko, da die geforderten Eigenschaften Allgemeingültigkeit und
-Empfehlungscharakter nur subjektiv bewertbar sind._
+welches oftmals Kontakt zu Fachspezialisten notwendig macht. Detaillierte Modelle müssen zwar **kaum angepasst** werden, sie passen aber auch nicht zu den Anforderungen vieler Unternehmen, so dass sie keine Verbreitung finden. Sind die Modelle hingegen zu allgemein gehalten, dann müssen sie zu stark und damit **kostenaufwändig** angepasst werden, so dass ihr Einsatz ebenso in Frage gestellt wird. Daher ist eine kontinuierliche Weiterentwicklung erforderlich. Weiterhin können sich nur wenige Betriebe einen von Grund auf
+eigenständigen Ansatz leisten, da die Entwicklung dieser Modelle in der Regel **aufwändig** und damit **kostenintensiv** ist. Auch die **Geheimhaltung** von Unternehmensinformationen,
+welche als Grundlage für Geschäftstätigkeit und Erfolg angesehen wird, **erschwert die
+Veröffentlichung** des in den Referenzmodellen befindlichen Wissens. Letztlich bleibt bei der Nutzung immer ein **Risiko**, da die geforderten Eigenschaften Allgemeingültigkeit und
+Empfehlungscharakter **nur subjektiv bewertbar** sind._
 
 ---
 ## Klausurfrage:
@@ -135,7 +133,6 @@ Metamodelle beschreiben den
 nach denen die Elemente Eines Modells verwendet werden können
 
 ![](9.png)
-# ?
 
 ## UML als objektorientiertes Metamodell
 * Funktionsmodell: Anwendungsdiagramme
