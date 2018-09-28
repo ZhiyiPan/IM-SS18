@@ -40,11 +40,11 @@ _Die Aufgabe der Informationswirtschaft besteht darin, ein Gleichgewicht **zwisc
 ---
 ## Lebebnszyklusmodell der Informationswirtschaft!!!!
 
-_dieses Gleichgewicht dynamisch, d. h. Angebot und Nachfrage von Informationen müssen immer wieder neu aufeinander eingestellt werden. 
-Der Managementprozess der Informationswirtschaft gehorcht daher zyklischen Gesetzmäßigkeiten; ändert sich einer der Ausgangsparameter, bspw. die Informationsnachfrage, so wird ein erneuter Durchlauf der Prozessschritte angestoßen._
+_dieses Gleichgewicht **dynamisch, d. h. Angebot und Nachfrage von Informationen müssen immer wieder neu aufeinander eingestellt** werden. 
+Der Managementprozess der Informationswirtschaft gehorcht倾听，谛听 daher zyklischen Gesetzmäßigkeiten; ändert sich einer der Ausgangsparameter, bspw. die Informationsnachfrage, so wird ein erneuter Durchlauf der Prozessschritte angestoßen._
 
 
-### Grundlegende Elemente：
+### Grundlegende Elemente:
 1. Management von Informationsnachfrage und -bedarf,
 2. Management der Informationsquellen,
 3. Management der Informationsressourcen,
@@ -61,16 +61,15 @@ Informationen interpretiert, bewertet und in seine bereits vorhandenen Informati
 
 ---
 
-是书上？
 
-Zunächst wird dabei auf **das Management der Informationsnachfrage** eingegangen. 
-Zwei Methoden zur Informationsbedarfserhebung : **die Methode Bestimmung der Kritischen Erfolgsfaktoren** und **die Balanced Scorecard.**
+_Zunächst wird dabei auf **das Management der Informationsnachfrage eingegangen**. 
+Zwei Methoden zur Informationsbedarfserhebung : **die Methode Bestimmung der Kritischen Erfolgsfaktoren** und **die Balanced Scorecard.**_
 
-Dem Lebenszyklus folgend gliedert sich das Kapitel weiter in **das Management der Informationsquellen** und **das Management der Informationsressourcen**. In diesem Unterkapitel wird **eine Methode zur Informationsmodellierung, Semantic Web**, beschrieben. 
+_Dem Lebenszyklus folgend gliedert sich das Kapitel weiter in **das Management der Informationsquellen** und **das Management der Informationsressourcen**. In diesem Unterkapitel wird **eine Methode zur Informationsmodellierung, Semantic Web**, beschrieben._ 
 
-Danach folgen das Management der Informationsqualität , **das Management des Informationsangebots** und der Bereitstellung sowie **das Management der Verwendung**. 
+_Danach folgen das Management der Informationsqualität , **das Management des Informationsangebots** und der Bereitstellung sowie **das Management der Verwendung**._ 
 
-_Das Lebenszyklusmodell der Informationswirtschaft bietet einen umfassenden Blick auf alle Problemstellungen der Informationswirtschaft. Um jedoch den prozessualen Charakter des Managements der Informationswirtschaft hervorzuheben, kann der Lebenszyklus auch anhand eines Managementprozesses verdeutlicht werden. Vorteil ist seine detailliertere Darstellung. So kann genau aufgezeigt werden, anlässlich welcher Ereignisse die entsprechenden, oben erwähnten Managementaufgaben der Informationswirtschaft einzusetzen haben. Beispielsweise führt das Ereignis „Informationsbedarf aufgetreten“ zu der Funktion bzw. Managementaufgabe „Informationsbedarf erheben/überprüfen“. Abbildung 5.3 zeigt den Managementprozess der Informationswirtschaft als Ereignisgesteuerte
+_~~Das Lebenszyklusmodell der Informationswirtschaft bietet einen~~ umfassenden **Blick auf alle Problemstellungen der Informationswirtschaft**. ~~Um jedoch den prozessualen Charakter des Managements der Informationswirtschaft hervorzuheben, kann der Lebenszyklus auch anhand eines Managementprozesses verdeutlicht werden.~~ **Vorteil ist seine detailliertere Darstellung.** So kann genau aufgezeigt werden, anlässlich welcher Ereignisse die entsprechenden, oben erwähnten Managementaufgaben der Informationswirtschaft einzusetzen haben. Beispielsweise führt das Ereignis „Informationsbedarf aufgetreten“ zu der Funktion bzw. Managementaufgabe „Informationsbedarf erheben/überprüfen“. Abbildung 5.3 zeigt den Managementprozess der Informationswirtschaft als Ereignisgesteuerte
 Prozesskette_
 
 ![](3.png)
@@ -106,10 +105,15 @@ D： Info-Angebot: Nutzer greift die DB zu und filtern Infos, die google breitge
 ---
 ## 2.Managementaufgaben im Lebenszyklus der Informationswirtschaft – **Management der Informationsnachfrage**
 ![](5.png)
+Wichtiges davon: entscheiden, bewerten, interpretieren seine InformationsBedarf
+
+_重复上面Zunächst wird dabei auf **das Management der Informationsnachfrage eingegangen**. 
+Zwei Methoden zur Informationsbedarfserhebung : **die Methode Bestimmung der Kritischen Erfolgsfaktoren** und **die Balanced Scorecard.**_
 
 _**Informationsnachfrage bzw. -bedarf** ist der **Auslöser für den Start des Lebenszyklus der
 Informationswirtschaft**._ 
 
+---
 ### Informationsbedarf > Informationsnachfrage
 
 ### Informationsbedarf:
@@ -151,17 +155,17 @@ _Die Basis der Informationsnachfrage ist der Informationsbedarf._
 ## Modell des Informationsverhaltens
 ![](8.png)
 
-_In der Realität ist der menschliche **Informationsbedarf** sehr stark durch **den subjektiven Informationsbedarf** bedingt._
-_Ein Modell, welches die Person, die einen Informationsbedarf wahrnimmt sowie den Kontext, in welchem der Informationsbedarf entsteht, als **Ausgangspunkte** beschreibt._
+_In der Realität ist der menschliche **Informationsbedarf** sehr stark durch **den ！！！！！subjektiven Informationsbedarf！！！** bedingt._
+_Ein Modell, welches die Person, die **einen Informationsbedarf wahrnimmt sowie den Kontext**, in welchem der Informationsbedarf entsteht, als **Ausgangspunkte** beschreibt._
 Demnach wird das **menschliche Informationssuchverhalten** stark von **Umgebung**, **Rolle** sowie **Personlichkeit** eines Individuums bestimmt. 
 
 In anderen Worten: **bei der gleichen Aufgabe haben unterschiedliche Personen ganz unterschiedliche Informationsbedarfe.** 
 
-_Die äußerste Ebene des Modells **„Umgebung“** umfasst Dimensionen wie **Arbeitsumgebung, soziokulturelle Umwelt sowie politisch-wirtschaftliche und physiologische Umgebung**. Das politische System kann Einfluss auf die Zugangsmöglichkeiten unterschiedlicher Personen auf bestimmte Informationen haben. Die physiologische Umwelt hingegen kann wesentlichen Einfluss auf die Arbeitsbedingungen und somit auf den Informationsbedarf einer Person haben._ 
+_Die äußerste Ebene des Modells **„Umgebung“** umfasst Dimensionen wie **Arbeitsumgebung, soziokulturelle Umwelt sowie politisch-wirtschaftliche und physiologische Umgebung**. ~~Das politische System kann Einfluss auf die Zugangsmöglichkeiten unterschiedlicher Personen auf bestimmte Informationen haben. Die physiologische Umwelt hingegen kann wesentlichen Einfluss auf die Arbeitsbedingungen und somit auf den Informationsbedarf einer Person haben.~~_ 
 
 _Die mittlere Ebene **„Arbeitsrolle“** wird als das einer Person zugewiesene Bündel an **Aufgaben und Verantwortlichkeiten** definiert, **welche den Informationsbedarf bestimmen**._
 
-_Im Zentrum des Modells als Ursprung des Informationsbedarfs und Informationsverhaltens eines Menschen befindet sich wie Abb verdeutlicht die Person mit ihren **physiologischen, affektiven und kognitiven Bedürfnissen -> Persönlichkeit**._
+_Im Zentrum des Modells als Ursprung des Informationsbedarfs und Informationsverhaltens eines Menschen befindet sich wie Abb verdeutlicht die Person mit ihren **physiologischen, affektiven感情(上)的 und kognitiven Bedürfnissen -> Persönlichkeit**._
 
 ---
 
@@ -192,7 +196,15 @@ _Im Zentrum des Modells als Ursprung des Informationsbedarfs und Informationsver
 
 Die Verfahren zur Ermittlung des Informationsbedarfs lassen sich in **subjektive, objektive und gemischte Verfahren** einteilen.
 
-![](11.png)
+
+Subjektive Verfahren |Objektive Verfahren |Gemischte Verfahren
+---------|----------|---------
+ Ableitung aus einer **subjektiven Interpretation** der Aufgabe | Ableitung aus **einer intersubjektiv validierten Interpretation** der Aufgabe | Vorgabe theoretischer Raster, die subjektiv interpretiert werden
+ Offene Befragung | Strategieanalyse | Strukturierte Befragung
+ Wunschkataloge | Prozessanalyse | Methode der kritischen Erfolgsfaktoren
+  Befragung der Mitarbeiter im Tätigkeitsumfeld | Input-Prozess-Output-Analyse | Balanced Scorecard
+   || Entscheidungsanalyse | Weiterentwicklung aus dem Kontext (Evolution)
+   | ||  Entwicklung aus dem Bestehenden (Ist-Situation bzw. Tätigkeitsanalysen)
 
 ### **Subjektive Verfahren**
 1. **Offene Befragung:** 
@@ -209,12 +221,12 @@ Die Verfahren zur Ermittlung des Informationsbedarfs lassen sich in **subjektive
 _1. **Strategieanalyse**:  **Informationsbedarf aus den strategischen Zielsetzungen** des Unternehmens heraus von der betreffenden Führungskraft abgeleitet._
 
 _2. **Prozessanalyse** als Erhebungsinstrument geht auf Unternehmensmodellebene von
-den Entscheidungsabläufen aus, die für die Ressourcensteuerung erforderlich sind. Die
-für die Entscheidungsabläufe erforderlichen Informationen lassen auf den Informationsbedarf der Prozessbeteiligten schließen._
+den **Entscheidungsabläufen** aus, die für die Ressourcensteuerung erforderlich sind. Die
+für die **Entscheidungsabläufe erforderlichen Informationen lassen auf den Informationsbedarf der Prozessbeteiligten schließen.**_
 
 _3. **Input-Prozess-OutputAnalyse**: Informationsbedarf und -stand werden hier im Sinne von **Input, Output und Informationsverarbeitung** entlang von Prozessschritten ermittelt_
 
-_4. **Entscheidungsanalyse** geht von gut strukturierten Entscheidungsprozessen aus, von denen sich, gegliedert nach Entscheidungsschritten, der Informationsbedarf in der jeweiligen Phase ableiten lässt_
+_4. **Entscheidungsanalyse** geht von gut **strukturierten Entscheidungsprozessen** aus, von denen sich, gegliedert nach **Entscheidungsschritten, der Informationsbedarf in der jeweiligen Phase ableiten lässt**_
 
 
 ### Gemischte Verfahren
@@ -240,11 +252,11 @@ Topmanagements~~ zu ermitteln._
 ausschlaggebend决定性的 für ein Individuum, eine Abteilung oder eine
 Organisation, um erfolgreich im Wettbewerb zu bestehen~~.
 
-_Die Methode **Bestimmung der Kritischen Erfolgsfaktoren** ist **ein Ansatz zur Ermittlung des Informationsbedarfs von Führungskräften**. Über **Interviews** werden die für die Arbeit der Führungskräfte als besonders wichtig eingestuften Themen ermittelt und
-Indikatoren zu deren Überwachung identifiziert._
+_Die Methode **Bestimmung der Kritischen Erfolgsfaktoren** ist **ein Ansatz zur Ermittlung des Informationsbedarfs von Führungskräften**. Über **！！！Interviews！！！** werden die für die Arbeit der Führungskräfte als besonders wichtig eingestuften **Themen ermittelt und
+Indikatoren zu deren Überwachung identifiziert**._
 
 _Nach der Methode der kritischen Erfolgsfaktoren wird der **Informationsbedarf daraus
-bestimmt, welche Faktoren für das Geschäft und den wirtschaftlichen Erfolg tatsächlich maßgeblich sind.** Der Informationsbedarf der Entscheider lässt sich somit aus diesen
+bestimmt, ！！！welche Faktoren！！！ für das Geschäft und den wirtschaftlichen Erfolg tatsächlich wichtig sind.** Der Informationsbedarf der Entscheider lässt sich somit aus diesen
 für den Unternehmenserfolg kritischen Faktoren ableiten. ~~Die Anwendung der Methode der kritischen Erfolgsfaktoren für die Ermittlung
 von Informationsbedarf beruht auf der Hypothese, dass Führungskräfte notwendigerweise
 Informationen zum Status bzw. der Entwicklung ihrer kritischen Erfolgsfaktoren für ihre
@@ -254,7 +266,7 @@ Entscheidungen benötigen.~~_
 1. Branche
 2. Wettbewerbsstrategie und Positionierung
 3. Umweltfaktoren
-4. Temporäre Faktoren
+4. Temporäre临时的 Faktoren
 5. Spezielle Anforderungen des Managements
 
 _Die **Branche**, in der ein Unternehmen tätig ist, weist **charakteristische Erfolgsfaktoren**
@@ -280,7 +292,7 @@ somit der Informationsproliferation entgegengewirkt werden_~~
 ### Welche Schritte sind zur Erhebung der KEF per Interviews notwendig?
 
 Gemäß KEF-**Interviewprozess** Befragung von 10-20 TopManagern eines Unternehmensbereichs
-1. **KEF** und **zugehörige Indikatoren erheben**
+1. **KEF** und **zugehörige Indikatoren指示器 erheben**
 2. **Verständnis** für die Organisation der Interviewpartner und deren Rolle aus ihrem Blickwinkel **entwickeln**
 3. **Ziele und Motive** der interviewten Manager für ihre Arbeit **verstehen**
 4. Den Managern helfen, ihren eigenen **Informationsbedarf besser zu verstehen**
@@ -322,7 +334,7 @@ Prozesskosten, die Systemverfügbarkeit oder die Erreichbarkeit des Help Desk._
 
 ![](15.png)
 
-_Den Ausgangspunkt: **Strategie** des Unternehmens, die umgesetzt werden soll._
+_Den Ausgangspunkt: **Strategie** des Unternehmens ~~, die umgesetzt werden soll.~~_
 
 _Danach werden für **jede der vier Perspektiven strategische Ziele** abgeleitet._ 
 
@@ -340,8 +352,7 @@ _Abschließend sind geeignete **Maßnahmen zu entwickeln und durchzuführen**, d
 der Schadenregulierung einer Versicherung
 
 * Subjektives Verfahren： 
-  offene Befragung：Was müssen Sie denn wissen um den Schaden zu
-regulieren?
+  offene Befragung：Was müssen Sie denn wissen um den Schaden zu regulieren调整?
 
 * Objektives Verfahren: Prozessanalyse: Wie sieht der Prozess der Schadenregulierung aus und welche Informationen werden benötigt?
   

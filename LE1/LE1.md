@@ -155,12 +155,12 @@ in verschiedene Bereiche oder Felder eingeordnet werden._
 ![](le1f.png)
 ![](le1g.png)
 
-_zeigt, wie „Geschäfts-Bereich“ und „DV-Bereich auf q**zwei Ebenen miteinander verbunden** sind, und dass diese Verbindungen in entgegengesetzte Richtungen laufen_
+_zeigt, wie „Geschäfts-Bereich“ und „DV-Bereich auf **zwei Ebenen miteinander verbunden** sind, und dass diese Verbindungen in entgegengesetzte Richtungen laufen_
 
 _fünf Prozesse:_ 
 
 _**Die Ableitung der Geschäftsplanung aus der strategischen Planung ①**_ 
-_liefert die generelle **Basis** für die weiteren Prozesse, ohne dass das IM direkt betroffen ist._
+_liefert die generelle **Basis** für die weiteren Prozesse ~~, ohne dass das IM direkt betroffen ist.~~_
 
 _Der darauf aufbauende **klassische Planungsprozess** für das IM, **die Anpassung der Informationssystemarchitektur an die Geschäftsziele ②**, **versucht,
 die Unterstützung durch IT zu optimieren**, indem **die IS an die Unternehmensorganisation
@@ -174,15 +174,14 @@ _Deswegen wird der nächste Prozess der **Einflussnahme der Informationstechnolo
 durch IT sind z. B. bei elektronischen Märkten und der Integration von Prozessen entlang
 der Wertschöpfungskette gegeben. Dieser Beeinflussungsprozess erfordert das Einbringen von Nutzungswissen in den strategischen Planungsprozess und setzt damit Kommunikationsfähigkeit auf beiden Seiten voraus_~~
 
-_Beeinflussen der Strategie heißt jedoch nicht nur Möglichkeiten eröffnen, da im Sinne einer **Begrenzung der Technikoptionen ④** die Nutzung der IT auch ihre technischen
-Grenzen erfährt受到. Das in Unternehmen theoretisch vorhandene Nutzungspotenzial kann **auf Grund der existierenden IS-Architektur, der Qualifikation der Mitarbeiter und nicht zuletzt wegen des knappen unternehmensspezifischen Wissens der Techniknutzung !!nicht ausgeschöpft!!** werden._
+_Beeinflussen der Strategie heißt jedoch nicht nur Möglichkeiten eröffnen, da im Sinne einer **Begrenzung der Technikoptionen ④** die Nutzung der IT auch **ihre technischen Grenzen erfährt受到**. Das in Unternehmen theoretisch vorhandene Nutzungspotenzial kann **auf Grund der existierenden IS-Architektur, der Qualifikation der Mitarbeiter und nicht zuletzt wegen des knappen unternehmensspezifischen Wissens der Techniknutzung !!nicht ausgeschöpft!!** werden._
 
 _Ist erst einmal die Rolle der existierenden IS-Architektur als Begrenzung für die Unternehmensstrategie erkannt, erscheint es sinnvoll, deren Entwicklung im Prozess **Strategische Ableitung der Informationssystemarchitektur ⑤** in **direkter Verbindung mit der
 Geschäftsstrategie** zu **gestalten** und somit den **„Umweg“** über die Entwicklung operativer
 Geschäftspläne zu **verkürzen**. Da dennoch **konkrete Anwendungen und Geschäftsprozesse betroffen** sind, erfordert auch dieser Prozess eine detaillierte Abstimmung der beteiligten Abteilungen._
 
-_**Die Bedeutung** des Enterprise Wide Information Management-Ansatzes (EWIM): zu verdeutlichen, dass **!!!Nutzer und Bereitsteller von IT untrennbar miteinander verbunden sind:!!!** **Technische Optionen beeinflussen die strategischen Pläne, während die Geschäftsorganisation eine Anpassung der IS-Architektur an ihre Ziele verlangt.** Wenn für die Unternehmensstrategie Entscheidungen über die Ausnutzung der durch Technologie gelieferten Handlungsspielräume zu treffen sind, dann sind Beurteilungsmaßstäbe für diese Spielräume notwendig, wodurch der EWIM-Ansatz die Know-how-Anforderungen auf
-beiden Seiten herausstellt._ 
+_**Die Bedeutung** des Enterprise Wide Information Management-Ansatzes (EWIM): zu verdeutlichen, dass **!!!Nutzer und Bereitsteller von IT untrennbar miteinander verbunden sind:!!!** **！！！Technische Optionen beeinflussen die strategischen Pläne, während die Geschäftsorganisation eine Anpassung der IS-Architektur an ihre Ziele verlangt.！！！** ~~Wenn für die Unternehmensstrategie Entscheidungen über die Ausnutzung der durch Technologie gelieferten Handlungsspielräume zu treffen sind, dann sind Beurteilungsmaßstäbe für diese Spielräume notwendig, wodurch der EWIM-Ansatz die Know-how-Anforderungen auf
+beiden Seiten herausstellt~~._ 
 
 _Des Weiteren wird verdeutlicht, dass das **IM sowohl Impulse推动 aus der geschäftlichen Welt=左边这个 erhält (Alignment) als auch an sie gibt (Impact), wodurch der IT die Rolle eines Enablers zukommt**_
 
@@ -190,10 +189,18 @@ _Des Weiteren wird verdeutlicht, dass das **IM sowohl Impulse推动 aus der gesc
 
 ---
 
-## Aufgabenorientierte Ansätze
-### TODO in a table
+## Aufgabenorientierte Ansätze　(Aufgabe des IMs)
 
-![](le1i.png)
+Strategische Aufgaben | Administrative Aufgaben | Operative Aufgaben
+---------|----------|---------
+ Strategische **Situationsanalyse** | **Projektmanagement** | **Produktionsmanagement**
+ Strategische **Zielplanung** | **Personalmanagement** | **Problemmanagement**
+ **Strategieentwicklung** | **Datenmanagement** | 　**Benutzer-Service**
+ Strategische Maßnahmenplanung |Lebenszyklusmanagement | 
+ **Qualitätsmanagement** |Geschäftsprozessmanagement |
+ Technologiemanagement | **Wissensmanagement** |
+ **Controlling** | Sicherheitsmanagement| 
+ **Revision**| Vertragsmanagement |
 
 _Fokus: Aufzeigen von Wegen zu deren Erreichung in der **Strukturierung der Aufgaben**. Die an dieser Stelle relevanten Aufgaben – und der übergeordneten Ziele – sind, die die im Rahmen von **IT-Einsatz und -Steuerung anfallen**._
 
@@ -221,32 +228,34 @@ _Die Information Technology Infrastructure Library (ITIL) ist ein **Referenzmode
 
 ---
 ## **Ebenenmodell!!!!!**
-### TODO 课件是不是和书有出入 保留课件
 
 _Die einzelnen **Ebenen** sind nach der **Art des Managementprozesses in
 Planung, Organisation und Kontrolle** unterteilt. Somit identifiziert folgende drei **Orientierungsschwerpunkte**:_
-1. Management des Informationseinsatzes,
-2. Management der IS und
-3. 1Management der Infrastrukturen für Informationsverarbeitung und Kommunikation.
 
-![](le1k.png)
+_1. Management des Informationseinsatzes,_
+
+_2. Management der IS und_
+
+_3. Management der Infrastrukturen für Informationsverarbeitung und Kommunikation._
+
 ![](le1l.png)
+![](le1k.png)
 ![](le1m.png)
 
 ---
 ## Bewertung der IM-Konzepte
 1. Problemorientiert, aufgabenorientiert
-- -Verzicht auf Struktur und Konzept
-- -keine technikbezogene und betriebswirtschaftliche Sicht
-+ +Fülle an Details
+    - -Verzicht auf Struktur und Konzept
+    - -keine technikbezogene und betriebswirtschaftliche Sicht
+    + +Fülle an Details
   
 2. Prozessorientiert
-+ +Orientierung an betrieblichen Prozessen
-+ +Zusammenhang zwischen einzelnen Aufgaben
-- -fehlender Bezug zu übergreifenden Themen
+    + +Orientierung an betrieblichen Prozessen
+    + +Zusammenhang zwischen einzelnen Aufgaben
+    - -fehlender Bezug zu übergreifenden Themen
   
 3. Ebenenorientiert
-- -fehlende Unabhängigkeit der Ebenen
+    - -fehlende Unabhängigkeit der Ebenen
   
 ---
 ## 
