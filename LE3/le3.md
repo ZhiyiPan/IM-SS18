@@ -252,6 +252,8 @@ _Einzelne **Kriterien der Informationsqualität** können **mit mehreren Kriteri
 
 ![](11.png)
 
+Paar Kriterien beziehen sich auf Zeit, Format, Inhalt (KLAUSURFRAGE)
+
 ---
 ## Management des Informationsangebots
 
@@ -271,7 +273,12 @@ und überfordern die Analysefähigkeiten der Informationsnutzer. Verfahren wie d
 
 **Informationsressourcen**
   - **Passiv**: nur auf Initiative und Betreiben eines Informationsbenutzers verwendet 
+  
+  pull, Initiative zur Verwendung muss vom Benutzer kommen
+
   - **Aktiv**: Inhalte der Ressource werden **in Informationsprodukte und –dienste überführt**, die an die Informationsbenutzer distribuiert werden, wobei diese durch Analysieren, Umordnen, Reproduzieren, Reduzieren und Verdichten eine **Wertsteigerung** erfahren (-> Einhaltung des inform. Log. Prinzips!)
+  
+  im Sinne von push, Inhalte werden weiter “gepushed“→ Einhaltung des inform. Log. Prinzips
 
 **Informationsressourcen sind entweder passiv oder aktiv.** 
 
@@ -285,6 +292,10 @@ zu den Informationsnutzern befindet._
 
 ---
 ## Benutzermodellierung
+
+Benutzermodellierung stellt auch eine Frage der
+Informationsqualität bei der Informationsdarbietung dar
+
 Unter **Benutzermodellierung** sind Mechanismen zu
 verstehen, die es dem Computer erlauben, sich
 möglichst gut **auf den Menschen einzustellen 适应人类**. Sie
@@ -299,6 +310,10 @@ Bedieneroberfläche verantworten**
 
 ![](13.png)
 
+_Definition: Nutzer soll so modelliert werden, dass
+die Informationsdarbietung möglichst gut von
+dem Nutzer rezipiert werden kann._
+
 ~~_Gegenstand der Benutzermodellierung kann entweder der Empfänger der Information oder der Bediener des Systems sein. Weiterhin kann unterschieden werden, ob sich das Modell auf die Präferenzen von Gruppen oder Individuen bezieht und ob es statisch, d. h. unveränderlich, ist oder sich dynamisch den Aktivitäten und Erfordernissen des Benutzers anpasst_.~~ 
 
 _**Merkmale**, die die Gestaltung des Benutzermodells beeinflussen, können harte Fakten, wie das Geschlecht oder das Alter der Benutzer, bzw. weiche Informationen
@@ -308,6 +323,11 @@ Differenzierung hinsichtlich einer langfristigen und einer kurzfristigen Modelli
 bei jeder Nutzung neu erstellt wird. Dies kann automatisch im Sinne eines lernenden Systems oder personell durch Befragung und personelle Auswertung der gewonnenen Daten erfolgen_
 
 ![](14.png)
+
+Benutzermodelle stellen Vorlieben dar:
+−Implizit→ Problem Präferenzen der
+Vergangenheit = Zukunft (e.g. Kaffeebestellung)
+−Explizit→ Präferenzen mal so mal so
 
 ---
 
@@ -521,6 +541,11 @@ _Hermeneutischen Zirkel: Grundlage für die **immer neue Initiierung eines Zyklu
 _Der hermeneutische Zirkel bildet den engen Zusammenhang zwischen Interpretation und Verständnis der Lebenswelt in Teilen und als Ganzes ab. Das Verständnis eines Teils des Erkenntnisgegenstandes erlaubt eine Interpretation des Ganzen. Dies wiederum erlaubt ein vertieftes Verständnis einzelner Bereiche oder Strukturen usw_
 
 ![](20.png)
+
+Komplexes Informationsgerüst. →
+Hermeneutischer Zirkel (je mehr man weiß
+desto mehr will man wissen) Netz des
+Verständnisses wurde enger geknüpft.
 
 _Durch die Anwendung des hermeneutischen Zirkels auf das Lebenszyklusmodell der
 Informationswirtschaft wird die Darstellung des  ebenszyklusmodells **um drei
