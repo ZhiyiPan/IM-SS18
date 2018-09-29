@@ -56,13 +56,13 @@ _Zentrale Überlegung des Modells der Technikauswirkungen nach Bakopoulos (1985)
 eröffnenden Potenziale der IKT ableitbar sein, die tatsächlich zu beachten sind_
 
 _Nach Bakopoulos **lässt sich die IKT durch die Dimensionen Leistung und Funktionen charakterisieren**. Die einzelnen Techniken der IKT im Bereich Hardware und Software als auch deren einzelne Nutzungsformen liefern ganz bestimmte Funktionen, die nach den
-Eigenschaften Speicherung, Verarbeitung und Kommunikation unterschieden werden. Bezüglich der Leistung ist zu differenzieren, **in welcher Kapazität, in welcher Qualität und zu welchen Stückkosten die IKT die Funktionen bereitstellt ** (vgl. Abb. 7.1). Ein Modell, das diese Daten zu liefern vermag, wäre im Sinne einer Minimalkostenkombination nutzbar und würde aus den resultierenden Leistungsänderungen die relevanten Trends für IKTAnwendungen aufzeigen. Von Interesse ist nicht jede der Veränderungen der einzelnen Technik, sondern wie die Trends zusammenhängen, welche Gesamtwirkungen sich auf
+Eigenschaften Speicherung, Verarbeitung und Kommunikation unterschieden werden. Bezüglich der Leistung ist zu differenzieren, **in welcher Kapazität, in welcher Qualität und zu welchen Stückkosten die IKT die Funktionen bereitstellt** (vgl. Abb. 7.1). Ein Modell, das diese Daten zu liefern vermag, wäre im Sinne einer Minimalkostenkombination nutzbar und würde aus den resultierenden Leistungsänderungen die relevanten Trends für IKTAnwendungen aufzeigen. Von Interesse ist nicht jede der Veränderungen der einzelnen Technik, sondern wie die Trends zusammenhängen, welche Gesamtwirkungen sich auf
 den IKT-Märkten durch die Einzeländerungen (etwa durch extrem kleine Rechnerarchitekturen kombiniert mit anderen Software-Entwicklungsmethoden) entfalten_
 
 ![](2.png)
 
 ---
-### Diffusion扩散
+## Diffusion扩散
 * Diffusion beschreibt den **Prozess der raum-zeitlichen
 Ausbreitung einer Innovation** in einem sozialen System.
 Die Diffusion einer Innovation findet durch die **Adoption (Annahme) der Innovationen** durch einzelne Individuen
@@ -73,7 +73,7 @@ wirtschaftlichem **Wandel einhergehende Neuerung**
 darstellt -> ein IS wird für das einzelne Unternehmen in diesem Kontext als
 eine solche Neuerung verstanden
 
-    ### Abgrenzung Diffusion - Adoption - Akzeptanz 
+### Abgrenzung Diffusion - Adoption - Akzeptanz 
 
 ![](3.png)
 ![](4.png)
@@ -83,12 +83,12 @@ eine solche Neuerung verstanden
 * Modell der Diffusionstheorie **zunächst bezogen auf
 Individuen** als Adoptereinheiten!
 
-* Begriff der Diffusion (nach Rogers):
+* **Begriff der Diffusion (nach Rogers):**
   
-  „…der Prozess, durch den eine Innovation mittels
-  verschiedener Kanäle über eine Zeit hinweg den Mitgliedern eines sozialen Systems kommuniziert wird…“
+  „…der Prozess, durch den eine **Innovation** mittels
+  verschiedener **Kanäle** über eine **Zeit** hinweg den Mitgliedern eines **sozialen Systems** kommuniziert wird…“
 
-  -> daraus ergeben sich 4 Eckpunkte der Diffusionstheorie:
+  -> daraus ergeben sich **4 Eckpunkte der Diffusionstheorie**:
   * Innovation selbst
   * Kommunikation über Kanäle
   * Zeit
@@ -116,8 +116,8 @@ der Innovationsdiffusion
 * Verbindung der Adoptereinheiten durch
 **Kommunikationskanäle**
 * Unterscheidung der Kommunikationskanäle
-  -> **Massenmedien**
-  -> **Interpersonale Kommunikation**
+  * -> **Massenmedien**
+  * -> **Interpersonale Kommunikation**
 
 ---
   ### Eckpunkt: Zeit - Adopterkategorien
@@ -161,7 +161,7 @@ Verhalten
 
 ### Aufgaben des Managements der Verarbeitung
 
-* Organisation, Steuerung und Kontrolle aller Daten- bzw. Informationsveränderungsaktivitäten im Unternehmen.
+* **Organisation, Steuerung und Kontrolle** aller Daten- bzw. Informationsveränderungsaktivitäten im Unternehmen.
   * Veränderungen (Transformation, Aggregation und Spezifizierung von Informationen) sind gemäß dem Aufgabenzusammenhang zu steuern.
 * Herausforderung im Management der Verarbeitung :
   - -> weniger: Computer-interne Verarbeitung managen
@@ -192,12 +192,12 @@ _Tabelle 7.1 fasst die Überlegungen zusammen, die der Informationsmanager bei E
 ![](10.png)
 ![](11.png)
 
-_1965 stellte Gordon Moore, einer der Gründer der Intel Corp., einen Zusammenhang zwischen der Zeit und der Anzahl der Transistoren fest, die sich auf einem Square Inch eines
-integrierten Schaltkreises befinden. Dieser, als Moore’s Law bekannt gewordene Zusammenhang besagt, dass die technische Entwicklung von Mikrochips derart ist, dass sich die
-Leistungsfähigkeit der Chips etwa alle 12–18 Monate verdoppelt, während sich die Kosten
-pro Leistungseinheit für die neue Technik um ca. 30 bis 50 % verringern (Moore 1965).
-Moore sprach zunächst von einem Zeitabstand von 24 Monaten für die Verdoppelung der
-Anzahl von Transistoren auf einem Mikrochip, revidierte diese Zeitangabe jedoch aufgrund der enormen Entwicklung einige Jahre später auf 12 Monate. Heutzutage wird der
+_~~1965 stellte Gordon Moore, einer der Gründer der Intel Corp., einen Zusammenhang zwischen der Zeit und der Anzahl der Transistoren fest, die sich auf einem Square Inch eines
+integrierten Schaltkreises befinden. Dieser,~~ als **Moore’s Law** bekannt gewordene Zusammenhang besagt, dass die technische Entwicklung von Mikrochips derart ist, dass sich **die
+Leistungsfähigkeit der Chips etwa alle 12–18 Monate verdoppelt**, während sich **die Kosten
+pro Leistungseinheit für die neue Technik um ca. 30 bis 50 % verringern**.
+Moore sprach zunächst von **einem Zeitabstand von 24 Monaten für die Verdoppelung der
+Anzahl von Transistoren auf einem Mikrochip**, revidierte diese Zeitangabe jedoch aufgrund der enormen Entwicklung einige Jahre später auf 12 Monate. Heutzutage wird der
 Zeitabstand auf 18 Monate geschätzt. Ein Ende dieser Entwicklung ist trotz vieler gegenteiliger Meinungen mittelfristig noch nicht abzusehen_
 
 _Konkret bedeutet dies: Als Moore’s Law entstand, hatte der komplexeste Mikrochip
@@ -211,38 +211,36 @@ Das NIST definiert **Cloud Computing** als: “[…] a model for enabling **ubiq
 applications, and services) that can be **rapidly provisioned and released** with minimal management effort or service provider
 interaction”
 
-Unter Cloud Computing versteht man ein T-basiertes
-**Bereitstellungsmodell**, bei dem **Ressourcen**, sowohl in Form von Infrastruktur als auch Anwendungen und Daten, als **verteilter Dienst**
+Unter Cloud Computing versteht man ein IT-basiertes
+**Bereitstellungsmodell**, bei dem **Ressourcen**, sowohl in Form von **Infrastruktur** als auch **Anwendungen** und **Daten**, als **verteilter Dienst**
 über das Internet durch einen oder mehrere Leistungsbringer
 bereitgestellt werden
 
 Dienst Bereitstellung
 
-_Cloud Computing kann dabei den Gestaltungsspielraum bei der Bereitstellung von
-Technikbündeln erweitern. Auf technischer Ebene ermöglicht die dynamische Virtualisierung von Ressourcen eine „Elastizität“ der Technikbündel in Abhängigkeit des jeweilig aktuellen Bedarfs. Durch dynamische Zuschaltung sowohl virtueller als auch realer
+_Cloud Computing kann dabei den Gestaltungsspielraum bei der **Bereitstellung von
+Technikbündeln** erweitern. Auf **technischer** Ebene ermöglicht die dynamische Virtualisierung von Ressourcen eine „Elastizität“ der Technikbündel in Abhängigkeit des jeweilig aktuellen Bedarfs. Durch dynamische Zuschaltung sowohl virtueller als auch realer
 Basistechniken können die Basisfunktionalitäten der Verarbeitung und der Speicherung
 flexibilisiert werden. Dies bedeutet, dass Anwendungen und Basisfunktionalitäten (z.B.
-Rechenleistung oder Speicherplatz) immer entsprechend der aktuellen Geschäftssituation genutzt werden können (Natis et al. 2009, S. 3).
-Aus betriebswirtschaftlicher Perspektive bedeutet Cloud Computing eine neue Form
-des Outsourcings von Technikbündeln (vgl. Abschn. 8.1.3). Cloud Computing ermöglicht es IT-Leistungen an externe Dienstleister zu vergeben und so Kosten-, Qualitäts-,
-Flexibilitäts- und Kompetenzvorteile für das Unternehmen zu nutzen (Böhm et al. 2009b, S. 8). So können aufgrund der beschriebenen Elastizität zusätzliche Kapazitäten für Verarbeitung, Speicherung und Kommunikation kurzfristig der bestehenden Leistungsfähigkeit hinzugefügt werden. Dies impliziert, dass die Kosten für die Verwendung dieser Ressourcen nutzungsbezogen anfallen _
+Rechenleistung oder Speicherplatz) immer entsprechend der aktuellen Geschäftssituation genutzt werden können.
+Aus **betriebswirtschaftlicher** Perspektive bedeutet Cloud Computing eine neue Form
+des **Outsourcings von Technikbündeln** (vgl. Abschn. 8.1.3). Cloud Computing ermöglicht es **IT-Leistungen an externe Dienstleister zu vergeben und so Kosten-, Qualitäts-,
+Flexibilitäts- und Kompetenzvorteile für das Unternehmen zu nutzen**. So können aufgrund der beschriebenen Elastizität zusätzliche Kapazitäten für **Verarbeitung, Speicherung und Kommunikation** kurzfristig der bestehenden Leistungsfähigkeit hinzugefügt werden. Dies impliziert, dass die Kosten für die Verwendung dieser Ressourcen nutzungsbezogen anfallen_
 
 ### Perspektiven des Cloud Computings
 
 ![](17.png)
 
 _In Abhängigkeit der verschiedenen Basistechniken und Technikbündel zeigt Abb. 10.28
-die resultierenden Perspektiven des Cloud Computings (Youseff et al. 2008, S. 3–7).
-Wie zu erkennen ist, wird das Paradigma der Dienstleistungsorientierung auf die einzelnen Basistechniken und Technikbündel bis hin zu Informationssystemen angewendet.
+die resultierenden **Perspektiven des Cloud Computings**. Wie zu erkennen ist, wird das Paradigma der Dienstleistungsorientierung auf die einzelnen Basistechniken und Technikbündel bis hin zu Informationssystemen angewendet.
 Diese Dienstleistungsorientierung führt auch zu einer zunehmenden Modularisierung von
-IT Diensten und deren Bezug über Wertschöpfungsnetzwerke (Böhm et al. 2010a). Hierfür
-sind neben den IaaS-, PaaS- und SaaS-Anbietern noch weitere Akteure wie beispielsweise
-Agregatoren oder Integratoren notwendig (Böhm et al. 2010a). Im Folgenden werden die
+IT Diensten und deren Bezug über Wertschöpfungsnetzwerke. Hierfür
+sind neben den **IaaS-, PaaS- und SaaS-Anbietern** noch weitere Akteure wie beispielsweise
+Agregatoren oder Integratoren notwendig. Im Folgenden werden die
 dargestellten Konzepte vorgestellt und die Implikationen dieser Dienstleistungsorientierung diskutiert._
 
 ![](18.png)
 ![](19.png)
-![](20.png)
 
 ---
 ## Hype Cycle Modell(Innovationzyklus)
@@ -254,5 +252,7 @@ dargestellten Konzepte vorgestellt und die Implikationen dieser Dienstleistungso
 ![](16.png)
 
 Das **Hype Cycle Modell** von Gartner beschreibt **die Erwartungen an eine Technologie im zeitlichen Verlauf aus Nachfrager-Sicht.** Als Maßgröße
-werden dazu **die Erwartungen bezüglich einer neuen Technologie, der Grad der öffentlichen Aufmerksamkeit und das Interesse an der Technologie im Verlauf der Zeit betrachtet.** Es wird davon ausgegangen, dass die menschliche bzw. mediale Reaktion auf neue Technologien immer nach demselben Muster verläuft. Der aktuelle Zustand einer Technologie im Lebenszyklus kann entsprechend bspw. durch Analyse der Anzahl von Publikationen im Zeitverlauf ermittelt werden. Der Hype Cycle wird in fünf Phasen unterteilt. In der ersten Phase, dem Technologie-Auslöser, ist zum ersten Mal nach Technologieeinführung ein signifikantes Medien- und Öffentlichkeitsinteresse zu verzeichnen. In der zweiten Phase (Gipfel der überzogenen Erwartungen) steigt das Interesse an der neuen Technologie weiter und führt zu übertriebenem Enthusiasmus und unrealistischen Erwartungen gegenüber der Leistungsfähigkeit. Trotz einiger erfolgreicher Anwendungen der neuen Technologie, scheitert jedoch eine überwiegende Mehrheit an der Aneignung, geplanten Technologienutzung und Vermarktung von auf der Technologie aufbauenden Produkten und Dienstleistungen. Aufgrund der unerfüllten Erwartungen kommt es in der nächsten Phase (Tal der Ernüchterung) zu einem deutlichen Rückgang des öffentlichen Interesses. Technologieanbieter arbeiten dennoch auch in dieser Phase kontinuierlich an der Verbesserung und Weiterentwicklung der Technologie. Dies führt zum Übergang in die nächste Phase, dem Hang der Erleuchtung. Durch erfolgreiche Verbesserungen der Technologie entstehen neue Anwendungen und Produktgenerationen, was ein langsam steigendes Interesse auf der Seite möglicher Technologieanwender nach sich zieht. Schließlich steigt
+werden dazu **die Erwartungen bezüglich einer neuen Technologie, der Grad der öffentlichen Aufmerksamkeit und das Interesse an der Technologie im Verlauf der Zeit betrachtet.** Es wird davon ausgegangen, dass die menschliche bzw. mediale Reaktion auf neue Technologien immer nach demselben Muster verläuft. Der aktuelle Zustand einer Technologie im Lebenszyklus kann entsprechend bspw. durch Analyse der Anzahl von Publikationen im Zeitverlauf ermittelt werden. Der Hype Cycle wird in fünf Phasen unterteilt. In der ersten Phase, dem **Technologie-Auslöser**, ist zum ersten Mal nach **Technologieeinführung ein signifikantes Medien- und Öffentlichkeitsinteresse zu verzeichnen**. In der zweiten Phase (**Gipfel** der überzogenen Erwartungen) **steigt das Interesse an der neuen Technologie** weiter und führt zu übertriebenem Enthusiasmus und unrealistischen Erwartungen gegenüber der Leistungsfähigkeit. Trotz einiger erfolgreicher Anwendungen der neuen Technologie, scheitert jedoch eine überwiegende Mehrheit an der Aneignung, geplanten Technologienutzung und Vermarktung von auf der Technologie aufbauenden Produkten und Dienstleistungen. Aufgrund der **unerfüllten Erwartungen** kommt es in der nächsten Phase (**Tal谷 der Ernüchterung失望**) zu einem deutlichen **Rückgang des öffentlichen Interesses**. Technologieanbieter arbeiten dennoch auch in dieser Phase **kontinuierlich an der Verbesserung und Weiterentwicklung der Technologie**. Dies führt zum Übergang in die nächste Phase, dem **Hang斜面 der Erleuchtung**. Durch erfolgreiche Verbesserungen der Technologie entstehen neue Anwendungen und Produktgenerationen, was ein langsam steigendes Interesse auf der Seite möglicher Technologieanwender nach sich zieht. Schließlich steigt
 die Leistungsfähigkeit der Technologie immer weiter an und stabilisiert sich (Plateau der Produktivität). Die letztendlich erreichte Höhe der Erwartungen hängt davon ab, ob die Technologie in Nischen- oder Massenmärkten Anwendung findet.
+
+![](20.png)

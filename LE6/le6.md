@@ -20,7 +20,7 @@ anwenden
 
 _Abbildung 6.14 zeigt die Entwicklung an Funktionalitätsbedarf und Funktionalitätsangebot durch Standardsoftware über die Zeit._
 
-_**Die Idealsituation D**, in der das Angebot exakt dem Bedarf entspricht, stellt sich selten ein. Standardsoftware leistet demzufolge immer entweder zu viel oder zu wenig. **Die
+_**Die Idealsituation D**, in der das **Angebot exakt dem Bedarf entspricht**, stellt sich selten ein. Standardsoftware leistet demzufolge immer entweder **zu viel oder zu wenig**. **Die
     Situation A beschreibt den typischen Einstieg mit Software, die über einen - im Vorfeld准备阶段 reduzierten - Anforderungsbedarf hinaus etwas Puffer bietet.** **In den Situationen B und C**
 hingegen wird die **Situation des Wartens auf ein neues Release nach gewachsenen Anforderungen dargestellt**, während die **Weiterentwicklung der Software in E** den Ansprüchen vorauseilt. Dadurch entsteht wiederum ein „Angebotsdruck“, der zu weiter steigenden Anforderungen führt, die in manchen Fällen ohne die Weiterentwicklung gar nicht entstanden wären_
 
@@ -100,11 +100,9 @@ _Im Zusammenhang mit der technischen Entwicklung und ihrer gestiegenen Bedeutung
 
 _An dieser Stelle soll **Software as a Service (SaaS) betrachtet und bezüglich Everything
 as a Service (XaaS)** auf Abschn. 10.4.4 verwiesen werden. In Analogie zu den Application
-Service Providern, versteht man unter Software-as-a-Service eine vertraglich vereinbarte
-  Dienstleistung, gegen eine periodisch zu entrichtende Zahlung - Miete oder (Leasing-)
-  Gebühr - Zugang zu einem zentral verwalteten und meist verteilten Software-System zu
-    erhalten. Darüber hinaus - und darin liegt der wesentliche Unterschied zu ASP - deckt
-diese Vereinbarung weitere Leistungen, wie z. B. (Daten-)Backup, Schulung etc.
+Service Providern, versteht man unter **Software-as-a-Service** eine vertraglich vereinbarte
+Dienstleistung, gegen eine periodisch zu entrichtende Zahlung - Miete oder (Leasing-)
+Gebühr - Zugang zu einem zentral verwalteten und meist verteilten Software-System zu erhalten. Darüber hinaus - und darin liegt der wesentliche Unterschied zu ASP - deckt diese Vereinbarung weitere Leistungen, wie z. B. (Daten-)Backup, Schulung etc.
 Die wesentlichen Vor- und Nachteile von Standard-Software gegenüber eigenentwickelter Software werden im Folgenden aufgelistet._
 
 ![](4.png)
@@ -117,66 +115,36 @@ Die wesentlichen Vor- und Nachteile von Standard-Software gegenüber eigenentwic
 
 | Modelltyp und primäre Bezugsgröße                                                                      | Ausgewählte Beispiele für Lizenzmodelle in der Praxis                                               |
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| Primär nutzerbezogene Modelle: **Anzahl der Nutzer**                                                   | Definierte  Nutzer vs. indirekter Zugriff, Lizenzkosten pro Bürger, Lizenzkosten während Evaluation |
-| Primär wertbezogene Modelle: z. B. **Personalbestand oder Herstellungskosten der verkauften Produkte** | Lizenzen für Personaladministrations-SW, Lizenzen für Planungs- und Dispositionssysteme             |
-| Primär zeitbezogene Modelle: **Dauer der Nutzung**                                                     | Subskription (Abonnement)                                                                           |
-| Primär infrastrukturbezogene Modelle: **Ausmaß der Nutzung der genutzten Infrastruktur**               | Pro-Device-Lizenz, Abrechnung nach Prozessor- oder Speichernutzung                                  |
+| Primär **nutzerbezogene** Modelle: **Anzahl der Nutzer**                                                   | Definierte  Nutzer vs. indirekter Zugriff, Lizenzkosten pro Bürger, Lizenzkosten während Evaluation |
+| Primär **wertbezogene** Modelle: z. B. **Personalbestand oder Herstellungskosten der verkauften Produkte** | Lizenzen für Personaladministrations-SW, Lizenzen für Planungs- und Dispositionssysteme             |
+| Primär **zeitbezogene** Modelle: **Dauer der Nutzung**                                                     | Subskription (Abonnement)                                                                           |
+| Primär **infrastrukturbezogene** Modelle: **Ausmaß der Nutzung der genutzten Infrastruktur**               | Pro-Device-Lizenz, Abrechnung nach Prozessor- oder Speichernutzung                                  |
 
-_Mögliche Lizenzmodelle fasst Tabelle zusammen. Die in der Praxis vorzufindende Ausgestaltung der Lizenzmodelle unterschiedlicher Softwarehersteller ist in der Regel sehr individuell und nicht standardisiert. Diese Vielfältigkeit an Softwarelizenzmodellen ist u. a. darauf zurückzuführen, dass aus Sicht des Anbieters Software ein Produkt mit hohen Fixkosten und niedrigen
-variablen Kosten ist. Dies erhöht dessen Gestaltungsspielraum bei der Preisbildung._
 
-_Neue Trends zur bedarfsorientierten Dienstleistung im Rahmen der Softwareüberlassung, wie z. B. SaaS (Software-as-a-Service), führen oft zu Modifikation und/oder Kombination der in Tab. 6.4 vorgestellten Modelle. Daher finden sich auch zusätzlich zu den gezeigten noch weitere Klassifikationen. So z. B. im Bereich XaaS oder Cloud Computing
-On-Demand-Lizenzen, bei denen pro verbrauchter Einheit (per use), z. B. Transaktionsaufruf etc. oder anhand eines Nutzungswerts (per value) die Lizenzkosten berechnet werden.
-Darüber hinaus gibt es auch Prepaid-Tarife (Gull und Wehrmann 2009, S. 325), bei dem man ein vorher gekauftes Kontingent sukzessive aufbraucht. Die in der Praxis vorkommenden Lizenzmodelle für kommerzielle Anwendungen unterscheiden sich hauptsächlich in den Bezugsgrößen, die für die Ermittlung der Lizenzkosten herangezogen werden. Im Folgenden werden die in Tab. 6.4 aufgeführten Beispiele für Lizenzmodelle näher erläutert_
-
-Primär nutzerbezogene Lizenzmodelle
-Der Gesamtvertragswert dieses Modells setzt sich primär aus den Lizenzgebühren für
-die Anzahl „definierter“ Nutzer (named users) unterschiedlicher Kategorien zusammen,
-z. B. Entwickler, Standard-Anwender, Nutzer einzelner Module oder Komponenten wie
-Personalwesen, Basis-Nutzer („Admin“) etc. Hinzu kommen weitere Kostenbestandteile,
+_Primär **nutzerbezogene** Lizenzmodelle: Der Gesamtvertragswert dieses Modells setzt sich primär aus den Lizenzgebühren für
+**die Anzahl „definierter“ Nutzer (named users)** unterschiedlicher Kategorien zusammen,
+z. B. Entwickler, Standard-Anwender, Nutzer einzelner Module oder Komponenten wie Personalwesen, Basis-Nutzer („Admin“) etc. Hinzu kommen weitere Kostenbestandteile,
 bspw. Kosten für Ergänzungsprodukte, Länderaufschläge für Nutzer bestimmter Staaten
-und Kosten für eine mögliche Datenbanknutzung.
-Für den Einsatz in Internetanwendungen und kooperativen Szenarien (siehe Kap. 10)
-muss das nutzerbasierte Lizenzmodell auf Angemessenheit überprüft werden: Denn viele
-Zugriffe auf Softwareanwendungen wie Enterprise Ressource Planning (ERP) Systeme
-werden nicht direkt von bekannten (und definierten) Nutzern vorgenommen, sondern über
-Fremdsysteme wie bspw. einem Webshop, der an ein ERP-System angebunden ist. Eine
-ähnliche Problematik ergibt sich durch Technologien wie Web Services, Portale und die
-Integration heterogener Systeme. Eine Alternative, dieser Herausforderung an ihr Lizenzmodell zu begegnen, zeigt z. B. die SAP AG mit dem Nutzertyp Externes CommunityMitglied (SAP AG 2003, S. 13).
-Die Lizensierung der SAP AG stellt ein ausgereiftes Beispiel primär nutzerabhängiger
-Lizenzmodelle dar und verdeutlicht zugleich, dass sich die Lizensierungskostenermittlung
-nicht als trivial erweist.
-Primär wertbezogene Lizenzmodelle
-Im Gegensatz zu den primär nutzerbezogenen Lizenzmodellen wird beim wertbasierten
-Ansatz die Lizenzgebühr an den Wert einer vorher definierten Kennzahl gekoppelt. Im
-Bereich der Personalabrechnung ist z. B. der Personalbestand eine häufig verwendete
-Determinante für die Lizenzkosten der eingesetzten Software (Wilderman 2002). So ist
-beim Einsatz des so genannten HCM-Moduls (das Human Capital Management Modul)
-von SAP R/3 beispielsweise neben den Lizenzen für die Nutzer der HCM-Funktionen eine weitere Lizenzgebühr je 1000 Personalstammsätze fällig (SAP AG 2003, S. 16). Für
-Planungs- und Dispositionssysteme werden häufig die Herstellungskosten der verkauften Produkte als bestimmender Faktor für die Lizenzgebühren herangezogen (Wilderman
-2002).
+und Kosten für eine mögliche Datenbanknutzung._
 
-Subskription als zeitbezogenes Lizenzierungsmodell
-Traditionell wird Software mit einer dauerhaften Nutzungslizenz verkauft, denn die Software wird eingeführt und dann lange Zeit genutzt. Üblicherweise fallen für den Kunden
-neben laufenden Lizenzkosten weitere Kosten für Zusatzleistungen an, z. B. Updates und
-Upgrades. Beim Abonnement-(Subskriptions-)Modell bezahlt zwar der Kunde eine relativ
-geringere Summe für die Nutzungslizenz, jedoch sind dann diese Zusatzleistungen nicht
+
+_Primär **wertbezogene** Lizenzmodelle: Im Gegensatz zu den primär nutzerbezogenen Lizenzmodellen wird beim **wertbasierten Ansatz die Lizenzgebühr an den Wert einer vorher definierten Kennzahl gekoppelt.** Im Bereich der **Personalabrechnung** ist z. B. der **Personalbestand** eine häufig verwendete Determinante für die Lizenzkosten der eingesetzten Software. So ist beim Einsatz des so genannten HCM-Moduls (das Human Capital Management Modul)
+von SAP R/3 beispielsweise neben den Lizenzen für die Nutzer der HCM-Funktionen eine weitere Lizenzgebühr je 1000 Personalstammsätze fällig. Für
+Planungs- und Dispositionssysteme werden häufig die Herstellungskosten der verkauften Produkte als bestimmender Faktor für die Lizenzgebühren herangezogen._
+
+_**Subskription** als **zeitbezogenes** Lizenzierungsmodell
+Traditionell wird Software mit einer **dauerhaften Nutzungslizenz** verkauft, denn die Software wird eingeführt und dann lange Zeit genutzt. Üblicherweise fallen für den Kunden
+neben laufenden Lizenzkosten weitere Kosten für Zusatzleistungen an, z. B. Updates und Upgrades. Beim Abonnement-(Subskriptions-)Modell **bezahlt** zwar der Kunde eine **relativ
+geringere Summe für die Nutzungslizenz**, jedoch sind dann diese Zusatzleistungen nicht
 Bestandteil des Lizenzvertrages und werden daher bei jedem Erscheinen neu angeboten
-und berechnet. Eine Studie Ende 2008 hat ergeben, dass von den angebotenen Lizenzmodellen der befragten Softwarehersteller 34 % Subskriptionsmodelle sind; bis 2010 wird
-ein Anstieg diese Anteils auf 45 % erwartet (Acresso Software 2008, S. 6). Ein Beispiel
-für ein derartiges Lizenzmodell sind die Statistiksoftwareprodukte der Firma SAS, die bereits seit 1976 diese Strategie verfolgt. Damals entsprach das Lizenzmodell zudem noch
-dem Subskriptions-Modell der IBM Mainframes, auf denen die SAS-Anwendungen liefen. Auch Microsoft hatte sein Betriebssystem Windows XP mit einem Lizenzmodell
-vertrieben, das die Kunden verpflichtete, alle zwei Jahre ein Update zu beziehen. Zu
-erwarten ist, dass die Umsätze mit Subskriptions-Softwarelizenzen steigen und gleichzeitig Umsätze mit traditionellen Lizenzen leicht zurückgehen werden. Eine Ausnahme
-bilden Anbieter von Unternehmenssoftware, die das Subskriptionsmodell eher nicht adaptieren werden, falls die Lizenzen zu abschreibungsfähigen Bilanzpositionen bei den
-Kunden führen.
-Infrastrukturbasierte Lizenzmodelle
-Das infrastrukturbasierte Lizenzmodell richtet sich am Ausmaß der Nutzung der Infrastruktur als eine im Vorfeld definierte Größe aus. Ein Beispiel hierfür ist die endgeräteabhängige Lizenzierung von Microsoft Exchange 2003. Microsoft bot zwei Modelle an:
-Pro-User- und Pro-Device-Lizenzen. Während die Pro-User-Lizenz es einem bestimmten User erlaubt, von beliebigen Endgeräten, z. B. Desktop, Laptop etc. die Software zu
-nutzen, koppelt die Pro-Device-Lizenz die Nutzung an das Endgerät, d. h. mehrere User
+und berechnet._
+
+**Infrastrukturbasierte** Lizenzmodelle:
+Das infrastrukturbasierte Lizenzmodell richtet sich am Ausmaß der **Nutzung der Infrastruktur** als eine im Vorfeld definierte Größe aus. Ein Beispiel hierfür ist die endgeräteabhängige Lizenzierung von Microsoft Exchange 2003. Microsoft bot zwei Modelle an:
+Pro-User- und Pro-Device-Lizenzen. Während die Pro-User-Lizenz es einem bestimmten User erlaubt, von beliebigen Endgeräten, z. B. Desktop, Laptop etc. die Software zu nutzen, koppelt die Pro-Device-Lizenz die Nutzung an das Endgerät, d. h. mehrere User
 können von einem bestimmten Endgerät aus auf die Anwendung zugreifen. Somit haben
 z. B. viele „schreibtischlose“ Mitarbeiter E-Mail-Zugang, wie dies in Werkstätten üblich
-ist (Fontana 2003).
+ist.
 
 ---
 ## Grundlagen des SAP-Lizenzmodells
@@ -197,48 +165,51 @@ ist (Fontana 2003).
 ---
 ## Kriterien für die Bewertung von Lizenzmodellen
 
-* Geringe Initialkosten ->
-Subskriptions-Lizenzmodell
+* **Geringe Initialkosten ->
+Subskriptions-Lizenzmodell**
 
-* Testphase ->
-userbezogene Lizenzierung
+* **Testphase** ->
+**userbezogene** Lizenzierung
 
-* Gemeinsamer Zugriff mehrerer User ->
-Pro-Device-Lizenzen
+* Gemeinsamer **Zugriff** mehrerer User ->
+Pro-**Device**-Lizenzen
 
-* Flexible Infrastruktur ->
-infrastrukturbezogenes SoftwareLizenzmodell
+* **Flexible Infrastruktur ->
+infrastrukturbezogenes SoftwareLizenzmodell**
 
-* Regionale oder branchenspezifische Besonderheiten
+* R**egionale oder branchenspezifische Besonderheiten
 ->
-wertbasiertes Lizenzmodell
+wertbasiertes Lizenzmodell**
 
 * Application Service Provider oder Cloud Provider ->
 ServiceProvider-Lizenzmodelle
 
 
-Sollen für den Nutzer der Lizenz relativ geringe Initialkosten anfallen, profitiert man
-beim Subskriptions-Lizenzmodell von den geringen Kosten zu Beginn der Vertragsbeziehung. Die Kosten werden in Form von Subskriptionsgebühren fortlaufend entrichtet,
-woraus sich eine langfristige Beziehung zum Softwareanbieter entwickeln kann. Darüber
-hinaus harmoniert das Modell mit dem Konzept einer flexiblen Infrastruktur: zunächst
-geringe IT-Investitionen, die mit steigenden Anforderungen wachsen.
+_Sollen für den Nutzer der Lizenz relativ **geringe Initialkosten** anfallen, profitiert man
+beim **Subskriptions**-Lizenzmodell von den **geringen Kosten zu Beginn der Vertragsbeziehung**. Die Kosten werden in Form von Subskriptionsgebühren fortlaufend entrichtet, woraus sich eine **langfristige Beziehung** zum Softwareanbieter entwickeln kann. Darüber hinaus harmoniert das Modell mit dem Konzept einer flexiblen Infrastruktur: zunächst
+geringe IT-Investitionen, die mit steigenden Anforderungen wachsen._
 
-Wird auf IKT-Ebene eine flexible Infrastruktur eingesetzt, die für den Betrieb der
-zu lizenzierenden Software verwendet wird, sollte ein primär infrastrukturbezogenes
-Software-Lizenzmodell dynamische Anpassungen der Infrastruktur, z. B. das Deaktivieren einer CPU, berücksichtigen.
-Befindet man sich in einer Testphase, ist die userbezogene Lizenzierung eine interessante Alternative. Die Pro-Nutzer-Lizenzierung für einzelne Testuser verhindert aufwändige Genehmigungsprozesse für teure Lizenzen im Unternehmen.
-Falls ein gemeinsamer Zugriff mehrerer User geplant ist, um z. B. „schreibtischlosen“ Mitarbeitern den Zugang zu einer Anwendung zu ermöglichen, bieten sich ProDevice-Lizenzen an, bei denen die Lizenzkosten pro Endgerät anfallen. Wird auf das
+_Wird auf IKT-Ebene eine **flexible Infrastruktur** eingesetzt, die für den Betrieb der
+zu lizenzierenden Software verwendet wird, sollte ein primär **infrastrukturbezogenes**
+Software-Lizenzmodell dynamische Anpassungen der Infrastruktur, z. B. das **Deaktivieren einer CPU**, berücksichtigen._
+
+_Befindet man sich in einer **Testphase**, ist die **userbezogene** Lizenzierung eine interessante Alternative. Die Pro-Nutzer-Lizenzierung für **einzelne Testuser** verhindert aufwändige Genehmigungsprozesse für teure Lizenzen im Unternehmen._
+
+_Falls ein **gemeinsamer Zugriff** mehrerer User geplant ist, um z. B. „schreibtischlosen“ Mitarbeitern den Zugang zu einer Anwendung zu ermöglichen, bieten sich **ProDevice**-Lizenzen an, bei denen die Lizenzkosten pro Endgerät anfallen. Wird auf das
 zu lizenzierende Produkt nicht von einem (Dialog-)User zugegriffen, sondern z. B. über
 Fremdsysteme, Web Services oder Portale, spricht man von einem indirekten Zugriff . Für
-diesen Fall stellen manche Anbieter einen speziellen Nutzertyp bereit.
-Liegt der Nutzung der Software ein wertbasiertes Lizenzmodell zugrunde, sollten bei
+diesen Fall stellen manche Anbieter einen speziellen Nutzertyp bereit._
+
+_Liegt der Nutzung der Software ein **wertbasiertes** Lizenzmodell zugrunde, sollten bei
 Lizenzverhandlungen auf jeden Fall die Bestimmung einer angemessenen und „fairen“
 Bezugsgröße berücksichtigt werden. Dies ist vor allem dann entscheidend, wenn regionale
 oder branchenspezifische Besonderheiten vorliegen. So ist beispielsweise bei den Herstellungskosten der abgesetzten Produkte zu berücksichtigen, dass diese nach US-GAAP
 anders ermittelt werden als nach HGB. Zudem müssen bei Großhändlern, die ihren Gewinn weniger durch große Margen als vielmehr durch hohe Mengen erwirtschaften und
-daher tendenziell hohe Umsatzkosten aufweisen, angepasste, d. h. niedrigere Multiplikatoren für die Ermittlung der Lizenzgebühren angesetzt werden. Tritt ein Unternehmen als
-Application Service Provider (ASP) auf, so sind speziell auf dieses Szenario ausgerichtete
-Service-Provider-Lizenzmodelle sinnvoll, um die gehostete Software kostengünstig anzubieten (Walsh 2003, S. 106). Microsoft bietet bspw. für Systemhäuser ein Service Provider
+daher tendenziell hohe Umsatzkosten aufweisen, angepasste, d. h. niedrigere Multiplikatoren für die Ermittlung der Lizenzgebühren angesetzt werden._
+
+ Tritt ein Unternehmen als
+**Application Service Provider (ASP)** auf, so sind speziell auf dieses Szenario ausgerichtete
+**Service-Provider-Lizenzmodelle** sinnvoll, um die gehostete Software kostengünstig anzubieten . Microsoft bietet bspw. für Systemhäuser ein Service Provider
 License Agreement an, das sich selbst wiederum aus nutzerbezogenen oder infrastrukturbezogenen Lizenzmodellen zusammensetzt.
 
 ![](8.png)
@@ -250,15 +221,15 @@ License Agreement an, das sich selbst wiederum aus nutzerbezogenen oder infrastr
 _Nachdem verschiedene Alternativen der Softwarebereitstellung betrachtet wurden, wird nun der **Lebenszyklus einer Anwendung** beschrieben, dem Entwicklung, Einführung und operativer Betrieb unterliegen. Die in Abb. 6.21 dargestellten Kurvenverläufe
 repräsentieren keine kumulierten Werte, **sondern nichtkumulierte Werte zu einem bestimmten Zeitpunkt**._
 
-* **Entwicklung**: die Schritte der **Ideenfindung und -verwirklichung** der Software-Entwicklung durchlaufen. In der Entwicklung fallen während des Lebenszyklusses die höchsten Kosten an.
-* **Einführung**: Erfolgt eine schrittweise Einführung, ergibt sich **eine wachsende Nutzung.** Die Nutzungsintensität wird auch vom Auftreten und Beseitigen von Fehlern während der Installationstests und zu Beginn des produktiven Betriebs bestimmt.
-* **Wachstum**: **alle Tests abgeschlossen, alle während der Einführung aufgetretenen Fehler beseitigt und alle Funktionen können produktiv genutzt werden.** **Die Nutzung nimmt durch weitere Nutzer zu**, sofern es sich nicht um eine Basisanwendung mit beschränktem Benutzerkreis handelt.
-* **Sättigung/Reife**: erreicht die Nutzung ihren Höhepunkt. Bisherige Nutzer können keine weiteren Nutzungsmöglichkeiten entdecken und weitere Nutzer kommen nicht mehr hinzu. Der Rückgang kann daran liegen, dass das System nicht mehr dem Stand der Technik entspricht, mit anderen konkurriert oder die Menge und Bedeutung der unterstützten Aufgaben zurückgeht.
-* **Rückgang**: Der in der Phase Sättigung饱和/Reife einsetzende Rückgang setzt sich fort.
-* **Abschaffung**: Hier muss die Entscheidung getroffen werden, zu welchem Zeitpunkt ein
+* _**Entwicklung**: die Schritte der **Ideenfindung und -verwirklichung** der Software-Entwicklung durchlaufen. In der Entwicklung fallen während des Lebenszyklusses die höchsten Kosten an_.
+* _**Einführung**: Erfolgt eine schrittweise Einführung, ergibt sich **eine wachsende Nutzung.** Die Nutzungsintensität wird auch vom Auftreten und Beseitigen von Fehlern während der Installationstests und zu Beginn des produktiven Betriebs bestimmt_.
+* _**Wachstum**: **alle Tests abgeschlossen, alle während der Einführung aufgetretenen Fehler beseitigt und alle Funktionen können produktiv genutzt werden.** **Die Nutzung nimmt durch weitere Nutzer zu**, sofern es sich nicht um eine Basisanwendung mit beschränktem Benutzerkreis handelt_.
+* _**Sättigung/Reife**: erreicht die Nutzung ihren Höhepunkt. Bisherige Nutzer können keine weiteren Nutzungsmöglichkeiten entdecken und weitere Nutzer kommen nicht mehr hinzu. Der Rückgang kann daran liegen, dass das System nicht mehr dem Stand der Technik entspricht, mit anderen konkurriert oder die Menge und Bedeutung der unterstützten Aufgaben zurückgeht_.
+* _**Rückgang**: Der in der Phase Sättigung饱和/Reife einsetzende Rückgang setzt sich fort_.
+* _**Abschaffung**: Hier muss die Entscheidung getroffen werden, zu welchem Zeitpunkt ein
 System durch ein neues abgelöst wird. Über den Zeitpunkt der Nutzung hinaus kann
 das auslaufende System noch Umstellungskosten oder auch remanente Lizenzkosten
-verursachen.
+verursachen._
 
 ---
 ## Überblick der Vorgehensmodelle zur Anwendungsentwicklung

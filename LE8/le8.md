@@ -22,6 +22,7 @@ verwandt werden
 * Technologie
   - **Wissenschaft** von der Technik
 
+---
 ### Definition: IKT und Infrastruktur
 
 ### **Informations- und Kommunikationstechnik** 
