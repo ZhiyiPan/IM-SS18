@@ -257,38 +257,40 @@ Datenschutz!)
 * **Anwendungsunterstützung**
 (Tuning, Statistikprogramme)
 
-### Drei Ebenen Architektur nach ANSI/SPARC
+## Drei Ebenen Architektur nach ANSI/SPARC
 
-• Externe Ebene
-  - Sicht auf die Datenstruktur des Datenbestandes anwendungsspezifisch
-  - Beschreibung mit Data Markup Language (DML)
+• **Externe Ebene**
+  - Sicht auf die **Datenstruktur** des Datenbestandes **anwendungsspezifisch**
+  - Beschreibung mit **Data Markup Language (DML)**
 
-_Die externe Ebene beschreibt die **benutzer- sowie anwendungsspezifischen Sichten auf die Datenstruktur des Datenbestands.** Eine Anwendung arbeitet in der Regel nicht mit dem gesamten Datenbestand, sondern interagiert lediglich mit einem spezifischen Teilausschnitt. Beispiele hierfür sind bestimmte Sichten (Views) auf den Datenbestand
-die durch Formulare, Listen oder Masken einer Anwendung impliziert sind. Die Beschreibung der Daten dieser Ebene erfolgt bspw. über die Data Manipulation Language (DML)._
+_Die externe Ebene beschreibt die **benutzer- sowie anwendungsspezifischen Sichten auf die Datenstruktur des Datenbestands.** Eine Anwendung arbeitet in der Regel nicht mit dem gesamten Datenbestand, sondern interagiert lediglich mit einem spezifischen Teilausschnitt. Beispiele hierfür sind bestimmte **Sichten (Views)** auf den Datenbestand
+die durch Formulare, Listen oder Masken einer Anwendung impliziert sind. Die Beschreibung der Daten dieser Ebene erfolgt bspw. über die DML._
 
-• Konzeptuelle Ebene
-  - Alle Objekte und Entitäten sowie deren Beziehungen
-  - Alle Daten im Zusammenhang mit
-Datenbankmanagementsystem und der Gesamtheit der darauf aufbauenden Anwendungen
+• **Konzeptuelle Ebene**
+  - Alle **Objekte** und **Entitäten** sowie deren **Beziehungen**
+  - **Alle Daten** im Zusammenhang mit
+Datenbankmanagementsystem und der Gesamtheit der darauf aufbauenden **Anwendungen**
   - Data Description Language (DDL)
 
 _Auf der konzeptuellen Ebene wird beschrieben, **welche Daten in der Datenbank abgelegt werden und wie diese zueinander in Relation stehen.** Diese Ebene enthält die Beschreibung aller notwendigen Daten, die im Zusammenhang mit dem Datenbankmanagementsystem und der Gesamtheit der darauf aufbauenden Anwendungen benötigt werden. Die Beschreibung der Daten und Relationen erfolgt mittels der Data Description Language (DDL). Ziel ist vor allem eine redundanzfreie sowie vollständige
 Darstellung der zu speichernden Informationen_
 
-• Interne Ebene
-  - Physische Behandlung der Daten, Speicherung und Zugriff
+• **Interne Ebene**
+  - **Physische Behandlung** der Daten, Speicherung und Zugriff
   - Data Storage Definition Language (DSDL)
 
-_Auf interner Ebene wird beschrieben, wie die Daten physisch behandelt werden, d. h. wie und wo diese abzuspeichern sind und wie auf diese zugegriffen wird. Zur Beschreibung dieses physischen Modells dient die Data Storage Definition Language (DSDL). Ziel ist ein möglichst performanter Zugriff auf die in der Datenbank abgelegten Daten._
+_Auf interner Ebene wird beschrieben, **wie die Daten physisch behandelt werden**, d. h. wie und wo diese abzuspeichern sind und wie auf diese zugegriffen wird. Zur Beschreibung dieses physischen Modells dient die **Data Storage Definition Language (DSDL)**.~~Ziel ist ein möglichst performanter Zugriff auf die in der Datenbank abgelegten Daten.~~_
 
 ![](20.png)
 
 ---
 ## Datentechnik
 • Unterstützt das Datenmanagement
+
 • Ziele:
-  - Installation und Sicherstellung von Datenbanken
+  - **Installation und Sicherstellung** von Datenbanken
   - Durchführen von Datenbankrestaurierungen im Fehlerfall
+
 • Werkzeuge:
   - Datenbankverwaltungssysteme
 (relational, objektorientiert, objektrelational)
@@ -297,11 +299,18 @@ _Auf interner Ebene wird beschrieben, wie die Daten physisch behandelt werden, d
 ---
 ## Big Data
 ![](21.png)
+Velocity速率
+
+这图是书上　不要求掌握
 ![](23.png)
 
-* Datenmenge: Datenberge von einigen Terabytes bis hin zu Petabytes.
-* Datenvielfalt: Zunehmende Vielfalt von Datenquellen und Datenformaten führt zu unstrukturierten, semistrukturierten und strukturierten Daten. Unternehmeninterne Daten
+_* **Datenmenge**: ~~Datenberge von einigen Terabytes bis hin zu Petabytes.~~_
+  
+* **Datenvielfalt**: Zunehmende Vielfalt von Datenquellen und Datenformaten führt zu **unstrukturierten, semistrukturierten und strukturierten Daten**. Unternehmeninterne Daten
 werden zunehmend um externe Daten ergänzt.
-* Geschwindigkeit: Immer schnellere Auswertung riesiger Datenmengen wird benötigt. Analysen großer Datenmengen in Sekunden wird benötigt, ebenso Datengenerierung und Datenübertragung in hoher Geschwindigkeit.
+
+* **Geschwindigkeit**: Immer schnellere Auswertung riesiger Datenmengen wird benötigt. Analysen großer Datenmengen in Sekunden wird benötigt, ebenso Datengenerierung und Datenübertragung in hoher Geschwindigkeit.
 
 ![](22.png)
+
+![](24.png)
