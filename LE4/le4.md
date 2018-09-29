@@ -128,7 +128,7 @@ Nennen Sie die Vorteile und Nachtele von Referenzmodell?
 
 Modelle sind **Systeme**, deren Elemente von einem **Betrachter** aus einem **Objektsystem** zu einem **Zweck** ausgewählt wurde.
 
-Metamodelle beschreiben den
+**Metamodelle** beschreiben den
 **Sprachvorrat** und die **Regeln**,
 nach denen die Elemente Eines Modells verwendet werden können
 
@@ -173,28 +173,29 @@ des Business Engineerings_
 
 ### Ziele des DM
 
-* optimale Nutzung der Daten im Unternehmen unter Beachtung von Richtigkeit, Konsistenz, Aktualität,
-Aufgabenbezogenheit und Zusammenhang der Daten, also Verbesserung der Informationsqualität, aber auch eine
+* **optimale Nutzung** der Daten im Unternehmen unter Beachtung von **Richtigkeit, Konsistenz, Aktualität,
+Aufgabenbezogenheit und Zusammenhang der Daten**, also **Verbesserung der Informationsqualität**, aber auch eine
 produktive Anwendungssystementwicklung
 
-* Definition einer DM Strategie, d.h. Festlegung, welche Daten für welche Systeme und Aufgaben zur Verfügung zu stellen sind, die Festlegung der organisatorischen Verantwortung für Pflege und Erfassung der Daten sowie die Bereitstellung der Daten in
+* (好像不是Ziel 看下下面的书)**Definition einer DM Strategie**, d.h. Festlegung, welche Daten für welche Systeme und Aufgaben zur Verfügung zu stellen sind, die Festlegung der organisatorischen Verantwortung für Pflege und Erfassung der Daten sowie die Bereitstellung der Daten in
 exakt definierter und untereinander abgestimmter Form
 
-_Das Datenmanagement (DM) betrifft alle betrieblichen und technischen Aspekte der Datenmodellierung, -administration, -technik, -sicherheit, -konsistenz, Sicherung von Daten (z. B. Backup) und des datenbezogenen Benutzerservices. Ziel des DM ist die Bereitstellung und Nutzung der Daten im Unternehmen. Dazu gehört die Beachtung von Richtigkeit, Konsistenz, Aktualität,  Aufgabenbezogenheit und Zusammenhang der Daten, also die Verbesserung der Informationsqualität, aber auch eine produktive Anwendungssystementwicklung durch den Einsatz von Datenbanken und geeigneten Modellierungstechniken_
+_Das Datenmanagement (DM) betrifft alle betrieblichen und technischen Aspekte der **Datenmodellierung, -administration, -technik, -sicherheit, -konsistenz, Sicherung von Daten (z. B. Backup) und des datenbezogenen Benutzerservices**. **Ziel des DM ist die Bereitstellung und Nutzung der Daten im Unternehmen**. Dazu gehört die Beachtung von **Richtigkeit, Konsistenz, Aktualität,  Aufgabenbezogenheit und Zusammenhang der Daten, also die Verbesserung der Informationsqualität**, aber auch eine produktive Anwendungssystementwicklung durch den Einsatz von Datenbanken und geeigneten Modellierungstechniken_
 
-### Datenmodellierung
+---
+## Datenmodellierung
 
 * Unternehmensweites Datenmodell
 * Schnittstelle zur Strategie
 * -> Modell ist stets Modell wovon-wozu-für wen
-* Ziele
-  - Verminderung Redundanz
-  - höhere Transparenz
-  - verbesserte Dokumentation
+* **Ziele**
+  - **Verminderung Redundanz**
+  - **höhere Transparenz**
+  - **verbesserte Dokumentation**
 * dadurch:
- - höhere Produktivität
- - verbesserte Kommunikation
- - ganzheitliches Denken und Vorgehen
+  - höhere Produktivität
+  - verbesserte Kommunikation
+  - ganzheitliches Denken und Vorgehen
 * Unternehmensmodell =
 Unternehmensdatenmodell + Unternehmensfunktionsmodell
 
@@ -215,8 +216,8 @@ Systemkomponenten geschaffen. Der Verwendungskontext der im Unternehmensdatenmod
 
 _Je nach **Verwendungsebene** und Aggregation werden **Daten- und Funktionsmodelle** der Ebenen A, B und C sowie der Informationstechnik Ebene unterschieden._
 
-**Unternehmensdaten- und -funktionsmodell sind Entitäten der Ebene A.** Diese Ebene enthält weniger – jedoch abstraktere – Entitäten als Ebene B, auf der
-betriebsspezifische Entitäten definiert sind. Auf Ebene C werden den Entitäten der Ebene B noch Informationen für einzelne Anwendungen hinzugefügt
+**Unternehmensdaten- und -funktionsmodell sind Entitäten der Ebene A.** Diese Ebene enthält **weniger** – jedoch **abstraktere – Entitäten** als Ebene B, auf der
+**betriebsspezifische Entitäten** definiert sind. Auf Ebene C werden den Entitäten der Ebene B noch Informationen **für einzelne Anwendungen** hinzugefügt
 
 ---
 ## Objektorientierte Datenmodellierung
@@ -238,22 +239,22 @@ betriebsspezifische Entitäten definiert sind. Auf Ebene C werden den Entitäten
 Ein **Datenbankmanagementsystem (DBMS)** besteht zum einen aus **einer Menge
 von Daten (Datenbasis)**. Diese Datenbasis wird auch als **permanenter oder materialisierter Speicher** bezeichnet. 
 
-_Sie enthält Informationseinheiten, die miteinander in Beziehung stehen und zur Steuerung und Kontrolle eines Aufgabenbereichs notwendig sind_
+_Sie enthält Informationseinheiten, die miteinander in Beziehung stehen und zur **Steuerung und Kontrolle** eines Aufgabenbereichs notwendig sind_
 
 Zum anderen besteht es aus der Gesamtheit der **Programme** zum **Zugriff**, zur **Kontrolle** und **Modifikation der Daten.** Die Einheit von Programmen zur Verwaltung der Datenbasis bezeichnet man auch als **Datenbankverwaltungssysteme oder DBMS**.
 
-_Ein Datenbanksystem besteht aus einer Menge von Daten (der eigentlichen Datenbasis oder auch Datenbank) sowie einer Menge von Programmen (genannt Datenbankverwaltungssystem oder auch Datenbankmanagementsystem), die den Zugriff und die Modifikation der Daten auf kontrolliere Weise ermöglichen._
+_**Ein Datenbanksystem besteht aus einer Menge von Daten** (der eigentlichen Datenbasis oder auch Datenbank) sowie einer Menge von Programmen (genannt Datenbankverwaltungssystem oder auch Datenbankmanagementsystem), die den Zugriff und die Modifikation der Daten auf kontrolliere Weise ermöglichen._
 
 ### Aufgaben:
-* Datenadministration
+* **Datenadministration**
 (Data-DictionarySysteme: passiv, aktiv, abhängig,
 unabhängig, primär, sekundär)
-* Datennutzung, bzw. –manipulation
+* **Datennutzung**, bzw. **–manipulation**
 (Auswertungs- und Reportfunktionen,
 Datenschutz!)
-* Datensicherheit bzw. Datenintegrität
+* **Datensicherheit** bzw. **Datenintegrität**
 (Hardware und Software, Internet)
-* Anwendungsunterstützung
+* **Anwendungsunterstützung**
 (Tuning, Statistikprogramme)
 
 ### Drei Ebenen Architektur nach ANSI/SPARC
