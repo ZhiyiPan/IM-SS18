@@ -18,6 +18,14 @@ anwenden
 ### Funktionalitätsbedarf und -angebot bei Standardsoftware
 ![](1.png)
 
+
+Anforderungen an Software ändern sich, d.h. es gibt manchmal mehr Anforderungen als
+Funktionalität und umgekehrt (→ **dynamisch**)
+* A → die Software umfasst **zu viele Funktionen**
+* B → die **Funktionalität** der Software **reicht nicht** mehr aus, da sich die **Anforderungen ändern**
+* C → die **Funktionalität ist höher als die Anforderungen**
+* D → die Anforderungen und die Funktionalität **stimmen uberein**
+
 _Abbildung 6.14 zeigt die Entwicklung an Funktionalitätsbedarf und Funktionalitätsangebot durch Standardsoftware über die Zeit._
 
 _**Die Idealsituation D**, in der das **Angebot exakt dem Bedarf entspricht**, stellt sich selten ein. Standardsoftware leistet demzufolge immer entweder **zu viel oder zu wenig**. **Die
@@ -213,6 +221,7 @@ daher tendenziell hohe Umsatzkosten aufweisen, angepasste, d. h. niedrigere Mult
 License Agreement an, das sich selbst wiederum aus nutzerbezogenen oder infrastrukturbezogenen Lizenzmodellen zusammensetzt.
 
 ![](8.png)
+![](23.png)
 
 ---
 ##  Lebenszyklus-Modell 

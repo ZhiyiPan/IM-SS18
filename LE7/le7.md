@@ -11,7 +11,7 @@ ableiten.
 Managements der Verarbeitung**.
 
 ---
-## 1. Management der Aneignung von IKT
+## 1. Management der Aneignung获得 von IKT
 
 ### Modell der Technikauswirkung - Inhalte, Ziel
 
@@ -23,42 +23,39 @@ der Technik im Detail und fortwährend beurteilen, aus dem Modell
 sind jedoch die sich eröffnenden Potenziale der IKT ableitbar, die
 tatsächlich zu beachten sind
 
-### Modell der Technikauswirkung - Ausprägungen (I)
+### Modell der Technikauswirkung - Ausprägungen 
 * Speicherkapazität
-  - Kontinuierlich steigender Umfang der Datenbasis
-  - Ursache fallende Kosten pro Speichereinheit
+  - Kontinuierlich **steigender Umfang** der Datenbasis
+  - Ursache **fallende Kosten** pro Speichereinheit
 * Qualität der Speicherung
-  - Angemessenheit der Daten in Bezug auf eine Entscheidung fällt mit der Zeit, die ein Suchmechanismus benötigt, um bestimmte Daten zu finden
+  - **Angemessenheit der Daten** in Bezug auf eine Entscheidung fällt mit der Zeit, die ein Suchmechanismus benötigt, um bestimmte Daten zu finden
   - Qualität fällt mit abnehmendem Wissen der Nutzer über Inhalte der gespeicherten Daten
   - Größere Datenbasis, längere Suchzeiten, geringerer Überblick, aber höhere Wahrscheinlichkeit, dass die benötigten Daten dabei sind, Ausgleich der beiden Effekte
-* Stückkosten der Speicherung
-  - Stückkosten je gespeicherter Einheit eines Datums stark fallend
-* Kapazität der Verarbeitung
-  - Anwendungssysteme bieten immer mehr Funktionalität
-* Qualität der Verarbeitung
-  - Höhere Benutzerfreundlichkeit durch Ergonomie der Oberfläche oder verbesserte Hilfetexte
-
-* Stückkosten der Verarbeitung
-  - Für eine Transaktion sinkend, da zunehmende Zahl von Funktionalitäten bei gleich bleibenden Hardware-Kosten
-  - Je Nutzer ungefähr gleich, da die Ansprüche der Nutzer mit der technologischen Entwicklung ungefähr Schritt halten
-* Kapazität der Kommunikation
-  - Größe des Netzwerkes und damit die Erreichbarkeit von Personen nimmt zu, je mehr Nutzer angebunden sind
+* **Stückkosten der Speicherung**
+  - Stückkosten je gespeicherter Einheit eines Datums **stark fallend**
+  -------
+* **Kapazität** der **Verarbeitung**
+  - Anwendungssysteme bieten immer **mehr Funktionalität**
+* **Qualität** der Verarbeitung
+  - **Höhere Benutzerfreundlichkeit** durch Ergonomie der Oberfläche oder verbesserte Hilfetexte
+* **Stückkosten der Verarbeitung**
+  - **Für eine Transaktion sinkend**, da zunehmende Zahl von Funktionalitäten bei gleich bleibenden Hardware-Kosten
+  - **Je Nutzer ungefähr gleich**, da die Ansprüche der Nutzer mit der technologischen Entwicklung ungefähr Schritt halten
+  -----
+* **Kapazität** der **Kommunikation**
+  - Größe des Netzwerkes und damit die Erreichbarkeit von Personen **nimmt zu**, je mehr Nutzer angebunden sind
   - Für die Kommunikation ist es wichtig, eine kritische Masse zu erreichen
-* Qualität der Kommunikation
-  - Eignung der Medien zu adäquaten Übermittlung einer Nachricht steigt
-* Kosten der Kommunikation
-  - Kosten je Nachricht und je Nutzer stark sinkend
+* **Qualität** der Kommunikation
+  - Eignung der Medien zu adäquaten Übermittlung einer Nachricht **steigt**
+* **Kosten** der Kommunikation
+  - Kosten je Nachricht und je Nutzer **stark sinkend**
   - Wachstum des Marktes, Preiskampf und Breitband-KommunikationsInfrastruktur
+  
+Technik ändert sich fortlaufend, doch nicht jeder Bereich muss kontinuierlich
+beobachtet und beurteilt werden. Aus dem Modell ist ersichtlich, welche
+Potenziale der IKT relevant sind:
 
 ![](1.png)
-
-_Zentrale Überlegung des Modells der Technikauswirkungen nach Bakopoulos (1985) ist, dass **eine Unternehmensleitung nicht jeden Bereich der Technik im Detail und fortwährend zu beurteilen braucht.** Aus dem Modell sollten jedoch die sich
-eröffnenden Potenziale der IKT ableitbar sein, die tatsächlich zu beachten sind_
-
-_Nach Bakopoulos **lässt sich die IKT durch die Dimensionen Leistung und Funktionen charakterisieren**. Die einzelnen Techniken der IKT im Bereich Hardware und Software als auch deren einzelne Nutzungsformen liefern ganz bestimmte Funktionen, die nach den
-Eigenschaften Speicherung, Verarbeitung und Kommunikation unterschieden werden. Bezüglich der Leistung ist zu differenzieren, **in welcher Kapazität, in welcher Qualität und zu welchen Stückkosten die IKT die Funktionen bereitstellt** (vgl. Abb. 7.1). Ein Modell, das diese Daten zu liefern vermag, wäre im Sinne einer Minimalkostenkombination nutzbar und würde aus den resultierenden Leistungsänderungen die relevanten Trends für IKTAnwendungen aufzeigen. Von Interesse ist nicht jede der Veränderungen der einzelnen Technik, sondern wie die Trends zusammenhängen, welche Gesamtwirkungen sich auf
-den IKT-Märkten durch die Einzeländerungen (etwa durch extrem kleine Rechnerarchitekturen kombiniert mit anderen Software-Entwicklungsmethoden) entfalten_
-
 ![](2.png)
 
 ---
@@ -98,7 +95,7 @@ Individuen** als Adoptereinheiten!
 
 Begriff **Innovation** (nach Rogers):
 **Innovation** versteht sich als **Idee, Praxis oder Objekt, die vom
-Adopter** (Individuum oder Gruppe) **als neu empfunden wird**
+Adopter** (Individuum oder Gruppe) **als neu empfunden感觉到 wird**
 
 ![](5.png)
 
