@@ -1,4 +1,4 @@
-#LE 9
+# LE 9
 
 ## 1. Management der Speicherung
 
@@ -7,9 +7,8 @@
 
 ### Information Lifecycle Management 
 
-„Information Lifecycle Management (ILM) ist ein **StorageManagement-Konzept**, welches Informationsobjekte während der **gesamten Lebenszeit aktiv verwaltet**. Dabei bestimmt eine Regelmaschine unter Berücksichtigung von Vorgaben aus den Geschäftsprozessen und der Bewertung der Kostenstrukturen der
-Speicherhierarchie in einem Optimierungsprozess den **best
-geeigneten Speicherplatz** für die verwalteten Informationsobjekte.“
+„Information Lifecycle Management (ILM) ist ein **StorageManagement-Konzept**, welches **Informationsobjekte** während der **gesamten Lebenszeit aktiv verwaltet**. Dabei bestimmt eine Regelmaschine unter Berücksichtigung von Vorgaben aus den Geschäftsprozessen und der Bewertung der Kostenstrukturen der
+Speicherhierarchie in einem Optimierungsprozess den **best geeigneten Speicherplatz** für die verwalteten Informationsobjekte.“
 
 Kriterien:
 * Wert eines Informationsobjektes
@@ -18,46 +17,43 @@ Kriterien:
 * Zugriffsrechte
 * Service Level Vereinbarungen
 
-Das Information Lifecycle Management (ILM) ist
-ein Storage Management-Konzept, das Information als einen Produktionsfaktor versteht,
-der einem Lebenszyklus unterliegt. Zentraler Bestandteil sind die Informationsobjekte,
+*Das Information Lifecycle Management (ILM) ist
+ein **Storage Management-Konzept**, das Information als einen Produktionsfaktor versteht,
+der einem Lebenszyklus unterliegt. Zentraler Bestandteil sind die **Informationsobjekte**,
 welche unter Berücksichtigung von Geschäftsprozessvorgaben und der Klassifizierung der
-vorhandenen Speicherlösungen bzgl. Kosten und bereitgestellten SLAs von einer Regelmaschine an besten geeigneten Speicherplatz abgelegt werden. Der Wert der Informationsobjekte, gesetzliche oder regulatorische Vorgaben und Aufbewahrungszeiten stellen
+vorhandenen Speicherlösungen bzgl. Kosten und bereitgestellten SLAs von einer Regelmaschine an besten **geeigneten Speicherplatz** abgelegt werden. Der Wert der Informationsobjekte, gesetzliche oder regulatorische Vorgaben und Aufbewahrungszeiten stellen
 Beispiele für Vorgaben aus Geschäftsprozessen dar. Unter Informationsobjekten versteht
 man unter anderem Dateien, Volumes, Logische Units, Dateiverzeichnisse oder E-MailNachrichten. Diese Informationsobjekte werden zeit- oder ereignisgesteuert in geeigneten
 Intervallen durch einen Optimierungsprozess anhand der Vorgaben neu bewertet. Anhand
-dieser Bewertung erfolgt entsprechend der Regelmaschine eine automatische Aktion
-
-Die Kosten des Speichers steigen mit dem Grad des zu erfüllenden Service Level in
-den einzelnen Schichten. Um Informationen kosteneffizient zu speichern, ordnet das ILM
-die Daten entsprechend ihrem Wert innerhalb der betriebswirtschaftlichen Geschäftsprozesse, den vereinbarten Servicezielen, sowie der Definition der Zugriffsrechte bzw. der
-Datenintegrität unterschiedlich kostenintensiven Speicherschichten zu. Diese Zuordnung
-geschieht durch die zeit- oder eventgesteuerte Ausführung eines Optimierungsprozesses, der den Speicherort von Informationen zusätzlich zu den bereits genannten Kriterien
-anhand von Zugriffshäufigkeit, Alter des Informationsobjektes, gesetzlicher oder regulatorischer Anforderungen und weiterer definierbarer Eigenschaften bestimmt
+dieser Bewertung erfolgt entsprechend der Regelmaschine eine automatische Aktion*
 
 ![](3.png)
 
 ILM ist […] kein Produkt, sondern eine **Kombination aus
 Prozessen und Technologien**.“
 
-Innerhalb des ILM ist das Management der Informationen nicht auf die Zuteilung zu
-einer Speicherebene im tiered Storage beschränkt. Die Instanzen des ILM Prozesses, wie Backup, Replikation, Allokierung, Archivierung und Löschung der Daten sind ebenso
-relevant, wie die Ablage auf einer anderen Speicherhierarchie. Die Beziehungen zwischen den Instanzen wird im ILM Modell durch eine Übergangsmatrix beschrieben
+*Innerhalb des ILM ist das Management der Informationen nicht auf die Zuteilung zu
+einer Speicherebene im tiered Storage beschränkt. **Die Instanzen des ILM** Prozesses, wie **Backup, Replikation, Allokierung, Archivierung und Löschung** der Daten sind ebenso
+relevant, wie die Ablage auf einer anderen Speicherhierarchie. Die Beziehungen zwischen den Instanzen wird im ILM Modell durch eine **Übergangsmatrix** beschrieben*
 
-Unter Allokation versteht man die initiale Erstellung eines Informationsobjektes auf
-einer durch das ILM bestimmten Speicherhierarchie.
-Beim Backup wird ein Informationsobjekt in regelmäßigen Abständen auf ein anderes
-Medium kopiert, ohne die vorherige Kopie oder das Original zu löschen.
-Unter Replikation versteht man eine kontinuierliche Spiegelung von Informationsobjekten. Wird ein Informationsobjekt verändert, so wird diese Änderung schnellstmöglich
-auf das andere Informationsobjekt übertragen. Es gibt die Replikation auch noch in der
-Ausprägung Point-in-Time. Dabei wird ein Informationsobjekt nur einmal kopiert. Änderungen am Original werden nicht gespiegelt. Die Kopie stellt die Ausprägung der Originaldaten zu einem gewissen Zeitpunkt dar.
-Die Verschiebung von Daten auf eine andere Hierarchieebene des Speichers wird als
-Verdrängung bezeichnet. Charakteristisch ist, dass sich bei diesem Vorgang lediglich die
-Zugriffzeit, nicht jedoch die Syntax des Datenzugriffs ändert.
-Die gezielte Speicherung eines oder einer zusammengehörenden Menge von Informationsobjekten in einer anderen Speicherklasse, in Verbindung mit einer Vorschrift, wie
-lange diese Daten nicht gelöscht werden dürfen, wird als Archivierung bezeichnet. Gesetze und Richtlinien bestimmen, wie lange Informationen aufbewahrt und welche Vorgaben
-für den Zugriff in dieser Zeit erfüllt werden müssen.
-Die Verlagerung eines Informationsobjekts beinhaltet die Veränderung des Speicherorts. Dieser Vorgang ist für die Benutzer transparent. Sind alle Informationsobjekte kopiert
+*Unter **Allokation** versteht man die **initiale Erstellung eines Informationsobjektes** auf
+einer durch das ILM bestimmten Speicherhierarchie.*
+
+*Beim **Backup** wird ein Informationsobjekt in **regelmäßigen Abständen** auf ein anderes
+Medium **kopiert**, ohne die vorherige Kopie oder das Original zu löschen*.
+
+*Unter **Replikation** versteht man eine **kontinuierliche Spiegelung von Informationsobjekten**. Wird ein Informationsobjekt verändert, so wird **diese Änderung schnellstmöglich
+auf das andere Informationsobjekt übertragen**. Es gibt die Replikation auch noch in der
+Ausprägung Point-in-Time. Dabei wird ein Informationsobjekt nur einmal kopiert. Änderungen am Original werden nicht gespiegelt. Die Kopie stellt die Ausprägung der Originaldaten zu einem gewissen Zeitpunkt dar.*
+
+*Die **Verschiebung von Daten auf eine andere Hierarchieebene des Speichers** wird als
+**Verdrängung** bezeichnet. Charakteristisch ist, dass sich bei diesem Vorgang lediglich die
+Zugriffzeit, nicht jedoch die Syntax des Datenzugriffs ändert.*
+
+*Die gezielte Speicherung eines oder einer zusammengehörenden Menge von Informationsobjekten in einer anderen Speicherklasse, in Verbindung mit einer Vorschrift, wie
+lange diese Daten nicht gelöscht werden dürfen, wird als **Archivierung** bezeichnet. Gesetze und Richtlinien bestimmen, wie lange Informationen aufbewahrt und welche Vorgaben für den Zugriff in dieser Zeit erfüllt werden müssen.*
+
+Die **Verlagerung** eines Informationsobjekts beinhaltet die Veränderung des Speicherorts. Dieser Vorgang ist für die Benutzer transparent. Sind alle Informationsobjekte kopiert
 und verfügbar, so werden die Originale gelöscht. Als Beispiel für eine Verlagerung dient
 der Ersatz alter Hardware. In diesem Fall müssen die Informationen, welche darauf gespeichert waren, an einen anderen Ort kopiert werden. Am Ende des Informationslebenszyklus
 steht der Prozess Löschen bzw. Zerstören. In diesem Prozessschritt liegt der besondere

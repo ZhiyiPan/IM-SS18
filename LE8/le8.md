@@ -64,7 +64,7 @@ das sich hinter einer solchen Anwendung verbirgt, entsprechen._
 _Abbildung fasst diese **Zusammenhänge von Basisfunktionalitäten, Basistechnik, Technikbündeln und darauf aufbauenden Softwareanwendungen** zusammen._
 
 _Ein **Beispiel** soll diese Ebenen erläutern: Es soll ein Enterprise Ressource Planning-System (**ERPSystem**) installiert und genutzt werden, das eine **Client-Server-Architektur** implementiert.
-Als technische Infrastruktur werden neben **passender Hardware und Verkabelung auch spezielle Kommunikationsprotokolle, ein Betriebssystem** etc. benötigt. Alle diese Komponenten müssen **aufeinander und auf das ERP-System abgestimmt** werden, bevor die
+Als **technische Infrastruktur** werden neben **passender Hardware und Verkabelung auch spezielle Kommunikationsprotokolle, ein Betriebssystem** etc. benötigt. Alle diese Komponenten müssen **aufeinander und auf das ERP-System abgestimmt** werden, bevor die
 Anwendung funktioniert. Die technische Grundlage eines klassischen SAP-ERP-Systems, und damit alle, speziell für dieses Produkt benötigten, Basistechniken werden als ABAPStack bezeichnet. Die Kombinationen von Basistechnik zu Technikbündeln können nahezu beliebig komplex werden. Auf diese Weise können neue komplexere Funktionalitäten bereitgestellt werden, die über diejenigen der Basistechnik weit hinausreichen._
 
 
@@ -74,9 +74,9 @@ Anwendung funktioniert. Die technische Grundlage eines klassischen SAP-ERP-Syste
 ![](../LE9/11.png)
 ![](../LE9/12.png)
 
-Ein typisches Beispiel für Technikbündel sind Client-Server-Architekturen (CSA). Sie
-entstehen durch Bündelung von Basistechniken und liefern spezielle Formen der drei
-Basisfunktionalitäten. (siehe Abb. 7.24). Im Basisfunktionalitätsbereich Kommunikation
+Ein typisches Beispiel für Technikbündel sind Client-Server-Architekturen (**CSA**). Sie
+entstehen durch **Bündelung von Basistechniken** und liefern **spezielle Formen der drei
+Basisfunktionalitäten**. (siehe Abb. 7.24). ~~Im Basisfunktionalitätsbereich Kommunikation
 bestehen CSA aus der Basistechnik Datennetze sowie Koordinationsverfahren, insbesondere Remote Procedure Calls (RPC) und Message Passing Systems (MPS). Im Basisfunktionalitätsbereich der Verarbeitung wird Rechenkapazität an den Netzknoten der CSA
 benötigt. Weiterhin sind für CSA grafische Benutzeroberflächen als Präsentationstechniken charakteristisch. Im Basisfunktionalitätsbereich der Speicherung werden verteilte
 Datenbankkonzepte als Basistechnik verwendet. Obwohl verschiedene Formen der Basistechnik schon vorher bestanden, macht erst die sinnvolle Kombination das Potenzial des
@@ -87,20 +87,21 @@ Rechnern einige Rechner, die so genannten Server, bestimmte Dienstleistungen fü
 der Datenhaltung, auf der Ebene der Anwendung oder auch nur in der Präsentation der
 Daten bestehen (). Die Dienstleistung kann in Form von Datenhaltung oder auf Ebene der
 Anwendung erbracht werden. Wie Abb. 7.24 zeigt, bestehen Applikationen auf Basis von
-CSA aus den Komponenten Darstellung, Anwendung und Datenhaltung.
+CSA aus den Komponenten Darstellung, Anwendung und Datenhaltung.~~
 
 ![](../LE9/13.png)
 ![](../LE9/14.png)
 ![](../LE9/15.png)
 
 ![](../LE9/10.png)
+
 ---
 ## Definition: Ziele und Aufgaben des Managements von IKT
 
 ### Management
-Das **Management** der Informations- und Kommunikationstechnik
+Das **Management der IKT**
 umfasst:
-1. Das Management der **bereits im Unternehmen im Einsatz** befindlichen IKT
+1. Das Management der **bereits im Unternehmen im Einsatz** befindlichen **IKT**
 2. Das Management **neuer Technik für den potentiellen Einsatz** im Unternehmen
 
 
@@ -110,7 +111,7 @@ Informations- und Kommunikationstechnik einen Beitrag zur **Verbesserung der Eff
 
 _Aus diesem Ziel lassen sich in der Operationalisierung唯实践论 einzelne Aufgaben ableiten._
 
-Die **Aufgabe** des IKT-Managements ist es, die IKT als Infrastruktur zu planen, sowie deren effiziente und effektive Implementierung,
+Die **Aufgabe** des IKT-Managements ist es, die **IKT als Infrastruktur zu planen**, sowie deren effiziente und effektive Implementierung,
 Nutzung sowie Weiterentwicklung zu steuern und zu kontrollieren.
 
 ---
@@ -118,13 +119,13 @@ Nutzung sowie Weiterentwicklung zu steuern und zu kontrollieren.
 
 ![](3.png)
 
-Abbildung 7.2 stellt die sich daraus ableitbaren Arten von technischen Produkten dar:
-  * Quadrant I: Produkte, die **bereits etablierte Technik** nutzen, um die **Effizienz** der bereits im Unternehmen etablierten Tätigkeiten zu **verbessern**.
-  * Quadrant II: Produkte, die **bereits etablierte Technik** nutzen, um dem Unternehmen den Schritt **zu neuen Tätigkeitsfeldern** zu ermöglichen.
-  * Quadrant III: Produkte, die **neue Technik** nutzen, um die **Effizienz** der bereits im Unternehmen etablierten Tätigkeiten zu **verbessern**.
-  * Quadrant IV: Produkte, die **neue Technik** nutzen, um dem Unternehmen den Schritt **zu neuen Tätigkeitsfeldern** zu ermöglichen.
+*Abbildung 7.2 stellt die sich daraus ableitbaren Arten von technischen Produkten dar:*
+  * *Quadrant I: Produkte, die **bereits etablierte Technik** nutzen, um die **Effizienz** der bereits im Unternehmen etablierten Tätigkeiten zu **verbessern***.
+  * *Quadrant II: Produkte, die **bereits etablierte Technik** nutzen, um dem Unternehmen den Schritt **zu neuen Tätigkeitsfeldern** zu ermöglichen*.
+  * *Quadrant III: Produkte, die **neue Technik** nutzen, um die **Effizienz** der bereits im Unternehmen etablierten Tätigkeiten zu **verbessern***.
+  * *Quadrant IV: Produkte, die **neue Technik** nutzen, um dem Unternehmen den Schritt **zu neuen Tätigkeitsfeldern** zu ermöglichen*.
   
-_Betrachtet man nun die Quadranten I und II, so kann man diese Techniken nochmals aufteilen in solche, die **bereits im Unternehmen im Einsatz sind** und solche, die (noch) nicht genutzt werden. **Das Verbesserungspotenzial liegt in der effizienteren oder neuen Nutzung bereits im Unternehmen befindlicher Produkte als auch in der Anschaffung von Produkten, die bereits etablierte Technik nutzen, aber noch nicht im Unternehmen eingesetzt werden.** ~~Aufgabe des Technikmanagements ist es, die effiziente und effektive Techniknutzung im Unternehmen zu ermöglichen sowie sich einen Marktüberblick zu verschaffen und das Potenzial von bereits auf dem Markt etablierten Produkten einzuschätzen.~~_
+_Betrachtet man nun die Quadranten **I und II**, so kann man diese Techniken nochmals aufteilen in solche, die **bereits im Unternehmen im Einsatz sind** und solche, die (noch) nicht genutzt werden. **Das Verbesserungspotenzial liegt in der effizienteren oder neuen Nutzung bereits im Unternehmen befindlicher Produkte als auch in der Anschaffung von Produkten, die bereits etablierte Technik nutzen, aber noch nicht im Unternehmen eingesetzt werden.** ~~Aufgabe des Technikmanagements ist es, die effiziente und effektive Techniknutzung im Unternehmen zu ermöglichen sowie sich einen Marktüberblick zu verschaffen und das Potenzial von bereits auf dem Markt etablierten Produkten einzuschätzen.~~_
 
 _~~Ein Unternehmen muss darüber hinaus in der Lage sein, die Bedeutung~~ **neuer Technik** für das eigene Unternehmensgeschehen zu erkennen (III und IV). Dabei spielen sowohl **die Wahrnehmung der Nutzbarkeit der Technik als auch die Fähigkeiten zur Nutzung eine Rolle**. In diesem Zusammenhang sind Fragen der zeitlichen Abfolge der Technikadaption und des organisatorischen Lernens von zentraler Bedeutung. Auch die Beeinflussung der in Entwicklung befindlichen Technik kann zum Aufgabenbereich des Technikmanagements gezählt werden. Hinsichtlich des Grades der Veränderung unterscheidet man hier
 zwischen inkrementellen und radikalen Innovationen. Während erstere bestehende Produkte schrittweise und nur geringfügig verbessern, basieren radikale Innovationen auf gänzlich neuen Erkenntnissen_
@@ -172,7 +173,7 @@ wird, und nicht das **„WIE“**
 
 ---
 
-### Teilaufgaben des strategischen IKTManagements
+### Teilaufgaben des strategischen IKT Managements
 书上没有
 * Die **Bestimmung** des **IKT-Bedarfs** des Unternehmens
 * Die **Beeinflussung** der **IKT-Entwicklung** im
@@ -186,16 +187,15 @@ Technik- und Systemart, Umfang und Zeitpunkt
 Kommunikationstechnik (u.U. mit Entwicklungspartnern)
 
 ### Methoden des strategischen IKT-Managements
-* Bestimmung des optimalen Ersatzzeitpunktes einer
-Anwendung
-  - Bestimmung des optimalen Zeitpunktes für den Austausch bestehender
+* **Bestimmung des optimalen Ersatzzeitpunktes einer
+Anwendung**
+  - Bestimmung des optimalen Zeitpunktes für den **Austausch** bestehender
 Anwendungen mit Unterstützung durch betriebswirtschaftliche
 Berechnungsverfahren
-* Standardauswahl
-  - Entscheidungen bezüglich der Implementierung von Standards mit
-mathematischen Beschreibungsmitteln abbilden
-* Technology Roadmapping
-  - Entwicklung von Technologien auf der Grundlage von **Expertenwissen** einschätzen
+* **Standardauswahl**
+  - Entscheidungen bezüglich der Implementierung von **Standards mit mathematischen Beschreibungsmitteln** abbilden
+* **Technology Roadmapping**
+  - **Entwicklung** von Technologien auf der Grundlage von Expertenwissen **einschätzen**
 
 _Daher wird IKT-Management sowohl auf strategischer als auch auf operativer Ebene._
 
@@ -203,10 +203,11 @@ _**Methoden zur Bewältigung der oben genannten Aufgaben** sind u. a. das Techno
 
 _**Bestimmung des optimalen Ersatzzeitpunktes einer Anwendung**: Diese Methode unterstützt mittels betriebswirtschaftlicher Berechnungsverfahren die Bestimmung des optimalen Zeitpunktes für den Austausch bestehender Anwendungen._
 
-_**Standardauswahl**: Die Methode unterstützt Entscheidungen bezüglich der Implementierung von Standards. Die beschriebenen Modelle bilden das Standardisierungsverhalten von mehreren Akteuren mit mathematischen Beschreibungsmitteln ab._
+_**Standardauswahl**: Die Methode unterstützt **Entscheidungen bezüglich der Implementierung von Standards**. Die beschriebenen Modelle bilden das Standardisierungsverhalten von mehreren Akteuren mit mathematischen Beschreibungsmitteln ab._
 
-_**Technology Roadmapping**: Dieser Prozess schätzt die Entwicklung von Techniken auf der Grundlage von Expertenwissen ab. Dabei wird untersucht, wie **mit den vorhandenen Ressourcen** eines Unternehmens die angestrebten **Ziele realisiert werden** können. Zusätzlich wird die Machbarkeit der gefundenen Realisierungsmöglichkeiten überprüft._
+_**Technology Roadmapping**: Dieser Prozess **schätzt die Entwicklung** von Techniken auf der Grundlage von Expertenwissen **ab**. Dabei wird untersucht, wie **mit den vorhandenen Ressourcen** eines Unternehmens die angestrebten **Ziele realisiert werden** können. Zusätzlich wird die Machbarkeit der gefundenen Realisierungsmöglichkeiten überprüft._
 
+---
 ### Bestimmung des Ersatzzeitpunktes einer Anwendung
 * Analyse der Kostenstruktur
   - Zu erwartende Aufwendungen für den gesamten Lebenszyklus
@@ -226,13 +227,12 @@ dazu führen~~, dass der Einsatz von Technologien **beendet** wird. Es stellt si
 Wechsel organisiert wird**. Die Bestimmung des Ersatzzeitpunktes vor der Inbetriebnahme
 erfolgt in **drei Schritten**_
 
-_* Durch die Analyse der Kostenstruktur werden die zu erwartenden Aufwendungen für
-den gesamten Lebenszyklus erhoben. Dabei spielen neben den Erstellungskosten insbesondere der Aufwand für die kontinuierliche Pflege und Wartung in der Phase der
+_Durch die **Analyse der Kostenstruktur** werden die zu erwartenden Aufwendungen für den gesamten Lebenszyklus erhoben. Dabei spielen neben den Erstellungskosten insbesondere der Aufwand für die kontinuierliche Pflege und Wartung in der Phase der
 Reife eine bedeutende Rolle._
 
-_* Methoden der Nutzenstrukturanalyse versuchen durch Erfassung wichtiger Auswirkungen auf den Prozessablauf im Unternehmen, den Nutzen abzuschätzen und monetär auszudrücken._
+_Methoden der **Nutzenstrukturanalyse** versuchen durch Erfassung wichtiger Auswirkungen auf den Prozessablauf im Unternehmen, den Nutzen abzuschätzen und monetär auszudrücken._
 
-_* Zur Bestimmung des Abschaffungszeitpunktes müssen in einem letzten Schritt die
+_Zur Bestimmung des **Abschaffungszeitpunktes** müssen in einem letzten Schritt die
 Kosten- und Nutzenanalyse gegenübergestellt werden. Dadurch kann zumindest der
 ökonomisch sinnvollste Termin errechnet werden._
 
@@ -240,6 +240,7 @@ Kosten- und Nutzenanalyse gegenübergestellt werden. Dadurch kann zumindest der
 ![](8.png)
 ![](9.png)
 
+---
 ### Bedeutung von Standards
 * Standards als Kaufkriterium:
   - ohne Standard Unsicherheit bezüglich direkter und indirekter
@@ -247,11 +248,11 @@ Netzeffekte
   - Gefahr der Entscheidung für das ‚falsche‘ System
   - als Reaktion häufig Verzögerung der Kaufentscheidung
 * Lock-In:
-  - **Kosten für einen Wechse**l des Systems sind teurer als der
+  - **Kosten für einen Wechsel** des Systems sind teurer als der
 entstehende Nutzen -> Windows vs. Linux
   - Lock-In stellt für den Anbieter ein Quasimonopol似乎垄断 her
 
-### Nutzen von Standards
+### **Nutzen** von Standards
 
 * Standards **senken Kommunikationskosten**
 * Standards **schützen Investitionen** durch die
@@ -265,16 +266,16 @@ sind weniger Medienbrüche notwendig
 * Durch standardisierte, offene Kommunikationssysteme ergibt
 sich eine zusätzliche **Markttransparenz**, was positiv auf den Wettbewerb wirkt
 
+---
 ### Mögliche Strategien für das IM
-1. Das IM kann unternehmensweite Standards vorgeben.
-2. Das IM kann auf Standards bestehen, die konkrete
-Wahl aber der Verhandlung zwischen den Abteilungen
-überlassen.
-3. Das IM besteht nicht auf den Einsatz eines Standards.
-4. Das IM lässt Insellösungen zu.
+1. Das IM kann unternehmensweite **Standards vorgeben**.
+2. Das IM kann **auf Standards bestehen**, die konkrete Wahl aber der Verhandlung zwischen den Abteilungen überlassen.
+3. Das IM **besteht nicht auf den Einsatz eines Standards**.
+4. Das IM **lässt Insellösungen zu**.
 
-_Bei Strategie 2 werden keine unternehmensweiten Standards vorgegeben (Strategie 1),
-sondern die einzelnen Abteilungen verhandeln selbstständig um einen geeigneten Standard. Bei dieser Strategie wird sich ein effizienter Standard nach einer bestimmten Zeitspanne von selbst ergeben. Obwohl bei Strategie 3 keine Standards vorgesehen sind, kann sich auch hier ein gemeinsamer Standard herausbilden. Dies ist der Fall, wenn ähnliche Benutzeranforderungen in den Organisationseinheiten bestehen, ein hohes internes
+_Bei Strategie 2 werden keine unternehmensweiten Standards vorgegeben (Strategie 1), sondern die einzelnen Abteilungen verhandeln selbstständig um einen geeigneten Standard. Bei dieser Strategie wird sich ein **effizienter Standard nach einer bestimmten Zeitspanne** von selbst ergeben._
+
+_Obwohl bei Strategie 3 keine Standards vorgesehen sind, kann sich auch hier **ein gemeinsamer Standard** herausbilden. Dies ist der Fall, wenn ähnliche Benutzeranforderungen in den Organisationseinheiten bestehen, ein hohes internes
 Kommunikationsaufkommen zwischen den Abteilungen vorherrscht, hohe Inkompatibilitätskosten aufgrund stark ausgeprägter technischer Systemheterogenität bei Nichteinigung drohen, oder die Economies of Scale insgesamt umfangreich sind. Bei bewusster Unterlassung einer Steuerung durch das Management sowie heterogenen Anforderungen können
 sich Insellösungen etablieren (Strategie 4). Dies ist nach Dewan et al. (1995) eine durchaus
 gangbare Strategie, wenn die einzelnen Abteilungen stark dedizierte Aufgaben besitzen,
@@ -296,27 +297,25 @@ Softwaresystems existieren._
 ![](18.png)
 
 ---
-### Technology Roadmapping
+### **Technology Roadmapping**
 
 * Produktentwicklungen von Unternehmen werden u.a. von sich ständig und zunehmend stark ändernden externen Bedingungen getrieben
-* Um die **Risiken zu minimieren**, gilt es die äußeren
-Bedingungen **möglichst früh abzuschätzen** -> Methode: **Technology Roadmapping**
+* Um die **Risiken zu minimieren**, gilt es die **äußeren Bedingungen** möglichst früh **abzuschätzen** -> Methode: **Technology Roadmapping**
 
-A layout of paths or routes that exists (or could exist) in some
-particular geographical space… (that) serves as a traveller‘s tool that provides essential understanding, proximity, direction, and some degree of certainty in travel planning.
+A layout of paths or routes that exists (or could exist) in some particular geographical space… (that) serves as a traveller‘s tool that provides essential understanding, proximity, direction, and some degree of certainty in travel planning.
 
-_Eine Methode, die **äußeren Bedingungen abzuschätzen** und den **Technologieeinsatz im Zeitverlauf zu planen**, ist das Roadmapping, welches den Prozess der Erstellung einer Roadmap bezeichnet. Der Begriff Roadmap ist angelehnt an die Straßenkarte und bezeichnet meist eine grafische Darstellung._
+_Eine Methode, die **äußeren Bedingungen abzuschätzen** und den **Technologieeinsatz im Zeitverlauf zu planen**, ist das **Roadmapping**, welches den Prozess der Erstellung einer Roadmap bezeichnet. Der Begriff Roadmap ist angelehnt an die Straßenkarte und bezeichnet meist eine grafische Darstellung._
 
 ### Ziele und Inhalte von Roadmap
 
 Roadmaps communicate visions, attract resources from business and government, stimulate investigations, and monitor progress. They become the inventory of possibilities for a particular field, thus
 stimulating earlier, more targeted investigations.
 
-- Ergebnis eines Expertentreffens oder einer -befragung
-- Den Ausgangspunkt, die Ziele, sowie die verschiedenen Wege, um
-mit den gegebenen Ressourcen das gewünschte Ziel zu erreichen
-- Unter Berücksichtigung möglicher Hindernisse und Schwierigkeiten
-- Visualisierung
+- **Ergebnis eines Expertentreffens oder einer -befragung**
+- Den **Ausgangspunkt**, die **Ziele**, sowie die verschiedenen Wege, um
+**mit** den gegebenen **Ressourcen das gewünschte Ziel zu erreichen**
+- Unter Berücksichtigung möglicher **Hindernisse und Schwierigkeiten**
+- **Visualisierung**
 
 _Eine Roadmap umfasst als **Ergebnis eines Expertentreffens oder einer -befragung**, vergleichbar einer Straßenkarte, den Ausgangspunkt, die Ziele sowie die verschiedenen Wege, um mit den gegebenen Ressourcen die angestrebten Ziele zu erreichen._
 
@@ -330,8 +329,7 @@ Technologien dar._
 
 * „Disruptive Technologie“ bezeichnet **eine neue Technik, die eine bereits etablierte Technik vom Markt verdrängt**, ohne dass dies zunächst zu erwarten gewesen wäre.
 * Das führt dazu, dass gut geführte Unternehmen ihre
-Marktposition verlieren oder gar vollständig aus dem Markt
-gedrängt werden.
+**Marktposition verlieren** oder gar vollständig **aus dem Markt gedrängt** werden.
 
 ![](21.png)
 
@@ -339,6 +337,7 @@ gedrängt werden.
 ### Klausuraufgabe
 Definieren Disruptive Technologien und Beispiel.
 Beispiel: Mobilzahlung mit Payback Pay
+
 ---
 ## S-Kurven-Konzept
 
