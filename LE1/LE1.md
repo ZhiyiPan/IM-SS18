@@ -244,18 +244,18 @@ _3. Management der Infrastrukturen für Informationsverarbeitung und Kommunikati
 
 ---
 ## Bewertung der IM-Konzepte
-1. Problemorientiert, aufgabenorientiert
-    - -Verzicht auf Struktur und Konzept
-    - -keine technikbezogene und betriebswirtschaftliche Sicht
+1. **Problemorientiert, aufgabenorientiert**
+    - -**Verzicht auf Struktur und Konzept**
+    - -keine **technikbezogene und betriebswirtschaftliche** Sicht
     + +Fülle an Details
   
-2. Prozessorientiert
+2. **Prozessorientiert**
     + +Orientierung an betrieblichen Prozessen
-    + +Zusammenhang zwischen einzelnen Aufgaben
-    - -fehlender Bezug zu übergreifenden Themen
+    + +**Zusammenhang** zwischen einzelnen **Aufgaben**
+    - -fehlender Bezug zu **übergreifenden Themen**
   
-3. Ebenenorientiert
-    - -fehlende Unabhängigkeit der Ebenen
+3. **Ebenenorientiert**
+    - -fehlende **Unabhängigkeit der Ebenen**
   
 ---
 ## 
